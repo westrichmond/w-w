@@ -1,0 +1,2091 @@
+WARRIOR & WIZARD(TM)
+Originially found at: https://docs.google.com/document/d/1nc1rtATXRxKSpoK-AHplyJ4QsB3JK0qbAfBs3wXZIkM/
+
+Basic Rules
+A Fantasy Roleplaying and Combat Game by Chris Goodwin
+System Reference Document
+v0.10 Playtest Release
+
+Copyright 2008 by Christopher A. Goodwin
+
+
+WARRIOR & WIZARDTM is dual licensed under a Creative Commons Attribution-Share Alike 3.0 United States License and under the terms of the Open Game License.
+
+WARRIOR & WIZARD is a trademark of Christopher A. Goodwin and is considered Product Identity under the Open Game License.  Use of the name WARRIOR & WIZARD to refer to these rules is permitted as long as authorship information is maintained and the document is distributed in accordance with the terms of the license. 
+
+Produced using Google Documents
+
+SPECIAL THANKS TO:  Steve Jackson (US) and Howard Thompson.
+
+From the United States Copyright Office:
+
+The idea for a game is not protected by copyright. The same is true of the name or title given to the game and of the method or methods for playing it.
+
+Copyright protects only the particular manner of an author’s expression in literary, artistic, or musical form. Copyright protection does not extend to any idea, system, method, device, or trademark material involved in the development, merchandising, or playing of a game. Once a game has been made public, nothing in the copyright law prevents others from developing another game based on similar principles.
+
+
+
+
+Introduction
+Types of Games
+Movement and Distance
+Characters
+Character Types
+Attribute Checks
+Skills
+The Skill List
+Min. INT 8
+Min. INT 9:
+Min. INT 10:
+Min. INT 11:
+Min. INT 12:
+Min. INT 13:
+Min. INT 14:
+Weapon Skills (Min. INT varies):
+Fighting
+Phases:
+Combat Movement
+Combat Actions
+Attacking
+Damage
+Standard Damage Progression
+Weapons
+Armor:
+Encumbrance:
+Magic
+Casting a spell:
+Spellcasting and Damage:
+Spell Stat Block:
+The Spell List:
+Min. INT 8:
+Min. INT 9:
+Min. INT 10:
+Min. INT 11:
+Min. INT 12:
+Min. INT 13:
+Min. INT 14:
+Min. INT 15:
+Min. INT 16:
+BESTIARY
+EXPERIENCE POINTS
+Spending points
+Buying Skill bonuses
+Buying Spell bonuses:
+Improving Attributes
+Conversions
+Converting Monsters
+Legal Stuff
+
+
+
+
+Introduction
+WARRIOR & WIZARD is, as the name implies, a game about people getting into fights wielding weapons or spells.  WARRIOR & WIZARD is somewhere between a roleplaying game and a board game, in that each player has a "playing piece" (here called a character) that represents, in some way, a person. 
+
+WARRIOR & WIZARD uses six-sided dice.  You'll need at least three of them, perhaps as many as six or seven (but probably no more than that); these dice will be referred to in the text as "d6" for six-sided die.  Two dice will be referred to as 2d6, three dice as 3d6, and so on.  Bonuses or penalties to the dice roll are referred to as such; 2d6+1 means to roll two six-sided dice and add one to the total, while 3d6-2 means to roll three dice and subtract two.  (Other roleplaying games use dice with differing numbers of sides, and refer to those dice similarly; we use the notation here out of habit, even though d6 are the only die type we use in this game.) 
+
+The game is suitable for two or more players, and can be played in three modes: player vs. player, player vs. player with a referee (here called a gamemaster or GM) or multiple players cooperating plus a GM.  In player vs. player, each player creates a character and fights it out; in a player vs. player with GM situation, the gamemaster controls the environment as well as any additional characters not run by the players (known as nonplayer characters or NPCs); these NPCs can include monsters, if present.  If playing cooperatively with multiple players and a GM, one or more players create a character, and one person acts as the gamemaster and creates adventures and NPCs, makes decisions based on tough calls where there might be a question about the interactions between character abilities and the rules, and the like. 
+Types of Games
+Generally, Warrior & Wizard will be played as either an arena combat game, a dungeon adventuring game, or as a replacement for another fantasy roleplaying game ruleset. 
+
+Arena games:  When creating an arena, it can be sufficient to draw a playing field on hex paper.  It's recommended that the area contain plenty of obstacles, and an environment conducive to being used in combat (anything from sand that can be kicked into an opponent's eyes to old, rusted, weapons (or pieces thereof) laying around, bones and body parts from previous combats, bloodstains, etc.).  Arena games are good for player vs. player type games, with or without a referee, or as a sideline to a bigger adventure or campaign.  Arena games should include a basic goal or victory condition other than just killing off the other side, as well as a beginning setup (including where characters start, their basic weapons and armor, etc.).  Wargame-style scenarios can also be treated as arena games, especially with multiple players on a team and a GM. 
+
+Dungeons: A dungeon is an underground maze or cavern system, usually made up of rooms connected by corridors or passageways, containing monsters to fight against, traps and other hazards to avoid, and treasures to collect.  Treasures can be either monetary in nature or magical (these can range from magical weapons to staves containing their own spell effects to ancient artifacts to pretty much anything the GM can think of or import from another game system).  Dungeons are usually drawn or mapped out on square-ruled graph paper. 
+
+Replacement for another game:  GMs and players can use adventures as is, converting opponents using the conversion rules at the end of the document. 
+Movement and Distance
+Combat and movement take place on a hexagonal grid.  Two types of distance are referred to in WARRIOR & WIZARD:  hexes and multihexes.  A hex is simply one space on the map; a multihex refers to one hex plus the six hexes immediately surrounding and touching it.  One hex is approximately one yard (or one meter); one combat turn is approximately one second. 
+
+If using a square grid, one multihex is a group of nine squares arranged three-by-three; it might prove useful to set one multihex to be 10 feet by 10 feet.  In a square grid, assume that for lateral movement, one diagonal square is equal to two squares of movement distance, but for areas assume that one space diagonally is equal to one hex (one yard or meter). 
+Characters
+All characters have four Attributes: Strength, Dexterity, Intelligence, and Movement.  In later games, additional Attributes may be added.  (Attributes are defined as "those qualities all people possess in differing quantities"; we are well aware this is a circular definition...)
+
+Strength (STR):  Strength represents two things: a character's physical strength (including lifting ability and ability to deal damage), and his ability to withstand damage.  Attacks do damage to a character's Strength (see Combat for more information); the character's current Strength is equal to his normal Strength score minus any damage he has taken. 
+
+Dexterity (DEX):  Dexterity represents a character's quickness, general physical agility, and hand-eye coordination.  Characters roll against their Dexterity to hit other characters (see Attribute Checks and Combat).  Some weapons, armor, and other conditions reduce a character's Dexterity score; this is referred to as a character's Effective Dexterity.  Any time the character rolls against his Dexterity, he always uses his Effective Dexterity. 
+
+Intelligence (INT):  Intelligence represents a character's general reasoning, perception, and memory.  Characters roll against their Intelligence to sense things, to remember things that happened in the past, and to figure things out. 
+
+Movement (MOV):  Movement is not quite an Attribute, per se.  Human characters begin with a Movement score of 10; monsters and members of other races may have different Movement scores.  Movement can be increased by spending 1 point per +1 to Movement. 
+
+Optional Advanced Movement Rules:  Movement is equal to the character's (Current Strength + Effective Dexterity) / 2 (round up).  Care should be taken when calculating this value, as it can change even during combat; wounds, armor, and other factors can all have an effect on the character's Movement. 
+
+All characters receive a total of 32 points to allocate between the three Attributes (plus Movement, if desired).  Human characters have minimum scores of 8 in Strength, Dexterity, and Intelligence; monsters, as well as characters of other races, can have differing minimums or none at all. 
+
+Effective Attribute Values: Attributes will sometimes be referred to by their "effective" values, such as Effective Strength, Effective Dexterity, or Effective Intelligence.  This means the current value of those Attributes, modified by injury, encumbrance, and so on.  Wounds reduce a character's Effective Strength (see Effects of Damage), while a character's Effective Dexterity can be reduced either directly through the type of armor worn or indirectly through encumbrance (see Encumbrance). 
+
+Experience:  Characters can gain additional Experience Points through adventuring, which may be spent on Attributes as though they were starting points. 
+Character Types
+For purposes of the game, a character is either a Wizard or a Warrior; a Warrior is any character who is not a Wizard.  Wizards have great magical ability, while Warriors are usually physically powerful and great fighters. 
+Attribute Checks
+Attribute Checks are used in times of conflict; essentially, anytime two characters want something different to happen, an Attribute Check might be called for.  Attribute Checks can represent combat, the use of Skills, spells, and inborn abilities, or even things like feats of Strength, Dexterity, or Intelligence. 
+
+To make an Attribute Check, roll 3d6; if you roll less than or equal to the appropriate Attribute, the check is a success.  (Sometimes Attribute Checks will be referred to by the name of the Attribute being checked, such as Strength Check, Dexterity Check, or Intelligence Check.) 
+
+Difficulty:  Some conflicts are more difficult than others.  To represent this, some Attribute Checks are made using 4d6, 5d6, or more; the mechanical effect is to reduce the chance a character will succeed at his Check.  These are referred to as 4 die checks or 5 die checks, respectively.  Some checks can be made on 2d6 as well. 
+
+Margin:  Sometimes you'll want to know how well a character does at an action.  The margin is the amount by which the character succeeds (margin of success) or fails (margin of failure) at an Attribute Check.  Example:  Manfred, with a Dexterity of 14, attempts to make his Dexterity Check.  He rolls 11 on 3d6, making his margin of success (14 - 11) 3. 
+
+Margin of failure is considered a "negative margin of success"; any margin of failure is considered less than any margin of success.  If you need to know a net margin of success (the amount by which one character beats the other), subtract the lower margin of success from the higher. 
+
+Opposed Rolls:  Occasionally, two characters will be in direct opposition to one another.  In circumstances like this, each character rolls his Skill or Attribute Check; whichever one has a higher margin of success wins the check.  Usually it just means that character gets what he wants, though there could be additional consequences depending on the exact circumstances of the conflict. 
+Skills
+Skills are things that any character can potentially learn how to do.  A character can learn a number of Skills equal to his Intelligence; some Skills take up two or more "slots" toward this total.  The cost of each Skill, as well as the minimum Intelligence required to learn it, is noted following the Skill's description.  A character cannot learn a Skill unless his Intelligence is equal to or greater than its INT minimum. 
+
+Many Skills call for an Attribute Check under certain circumstances; normally an Attribute Check is only required in a situation of combat, conflict, or other stress.  An Attribute Check should only be required if the consequences of failure are as interesting as those of success. 
+
+Prerequisites:  For some Skills a prerequisite is listed.  The character must have all of the prerequisites in place for a Skill before he can learn it.  For instance, if a Skill calls for having a Dexterity score of 13 or more, plus the Swords Skill, the character must have 13 or more Dexterity and Swords before he can learn the other one. 
+The Skill List
+Min. INT 8
+Boating:  Boating allows a character to handle a boat or other small watercraft.  A character without this Skill who is attempting to handle a boat must make a 4d6 Dexterity Check every 5 minutes or capsize; a character with this skill need only roll once per trip, or in an emergency situation, and rolls 3d6.  Boating Cost:  1 slot.  Min. INT:  8
+
+Casual Riding:  Casual Riding allows a character to ride an animal outside of combat or other stressful situations.  No roll is necessary for ordinary, day to day travel.  A roll may be required once on any trip where high speed travel takes place.  Any one of the following factors calls for an immediate 3d6 Dexterity Check; each additional factor increases the check by one die:  high speed maneuvering, high speed over broken terrain, high speed over road hazards, combat, injury to mount of 1 or more damage, injury to rider of 3 or more damage, fire, sudden appearance of something.  Attacking from the mount is at -4 to Effective Dexterity, and all attacks against the character are at +2.  Controlling the mount during combat requires a Dexterity Check for each combat move, and moving the mount takes actions as if the character were moving himself.  On any emergency situation check, rolling a 16 or 17 means the rider falls off; a roll of 18 means the rider falls off, and the mount falls on the rider.  When you take this Skill, choose one type of animal to be your mount (any non-flying animal) for one Slot.  Casual Riding Cost:  1 slot.  Min. INT:  8
+
+Farming:  Farming gives the character general knowledge in running a farm, dealing with farm animals, and growing crops.  Farming Cost:  1 slot.
+
+Literacy:  The character knows how to read any languages he can speak.  Literacy Cost:  1 slot.
+
+Running:  Running is primarily skill at long distance running; add +2 to the character's Movement in all situations where long distance running is a factor.  Running Cost:  2 slots. 
+
+Sailor:  Sailor is the ability to function and act as a crew member on a sailing vessel; essentially, any sailing vessel large enough to require crew.  Characters without this Skill are at -2 to Effective Dexterity while on a sailing vessel, except for casting non-Missile spells; they also may get into various kinds of minor (or not-so-minor!) GM-defined trouble while on a ship.  Sailor Cost:  1 slot
+
+Sex Appeal:  Sex Appeal gives the character +1 on all Attribute Checks regarding interaction with NPCs of the opposite sex, or of the same sex who prefer members of the same sex.  The character can make a 3d6 Attribute Check against Strength or Intelligence to charm a member of the preferred sex (it's up to the GM exactly what this entails).  Sex Appeal Cost:  1 slot.
+
+Swimming:  The character knows how to swim.  A character without this Skill makes a 3d6 Dexterity Check every Turn or begins to drown.  Encumbrance reduces this directly.  A character with Swimming only has to make this roll in an emergency situation.  Swimming Cost:  1 slot.
+
+Will:  Will grants the character +2 on all rolls used to resist fast talk attempts and spells and other powers that affect the mind (such as Telepathy and the like).  The character is immune to uses of the Sex Appeal and Charisma Skills, if he chooses to be.  Will Cost: 2 slots.
+Min. INT 9:
+Alertness:  A character with the Alertness Skill rolls 1 die less on Intelligence Checks related to perception, whether actively searching or passively noticing things.  He can also roll a 3d6 Intelligence Check to notice an ambush before being attacked.  Alertness Cost:  2 slots.  Min. INT: 9
+
+Animal Handling:  Animal Handling is the ability to train and befriend animals.  In order to befriend an animal, the character must not be hostile, and must be away from other people and animals.  The character must act friendly toward the animal.  The character may then roll a 3d6 Intelligence Check; success means the animal is friendly toward the character, at least for a while. 
+
+Given time and appropriate facilities and equipment, the character can train animals as well.  Training an animal requires weeks if not months, and a successful 3d6 Intelligence Check on the part of the trainer. 
+
+The Skill only works on normal Animals with an INT score; at the GM's option it can work on some types of enchanted animals, but it never works on intelligent animals or creatures such as dragons, werewolves, insects, creatures with an INT of 8 or higher, or creatures with a human and an animal form.  Animal Handling Cost: 2 slots  Min. INT:  9
+
+Bard:  Bard allows the character to sing and play a musical instrument; he also has some "stage presence," giving him the ability to get people to sing along, as well as to perform in such a way as to increase tips.  He can influence people as per the Sex Appeal Skill, though it affects all humans and humanoids; if he also has Sex Appeal, he receives a +2 bonus.    Bard Cost:  2 slots.  Min. INT:  9
+
+Casual Driving:  The Casual Driver Skill allows a character to drive a wagon, cart, chariot, or other type of wheeled conveyance, under non-combat conditions.  The Skill is applied appropriately to the technology level of the campaign; if the tech level is such that both animal drawn conveyances and self-powered carriages are available, one type must be chosen at the time the Skill is purchased.  For more details on the circumstances under which Casual Driver applies, see Casual Riding.  Casual Driver Cost:  1 slot.  Min. INT: 9.
+
+Casual Riding (All Non-Flying Animals):  This Skill is identical to Casual Riding, except that it applies to all non-flying animals.  Characters with Casual Riding need only pay 1 slot to "upgrade" to this Skill.  Casual Riding (All Non-Flying Animals) Cost:  2 slots.  Min. INT: 9
+
+Charisma:  Charisma grants the character +1 on all rolls made to influence another character, including GM rolled reactions, attempts via social Skills or otherwise to interact with others, etc.  The Skill applies against humans and humanoid creatures, but not against animals, unintelligent creatures, demons, and so forth; if there's a question as to whether the Skill applies, it's up to the GM to determine.  Charisma Cost:  2 slots.  Min. INT:  9
+
+Climbing:  Climbing is the ability to climb mountains and rock walls; it's any climbing where climbing gear is used (ropes, spikes, pitons, etc.).  This Skill requires a climbing kit to use effectively.  Climbing Cost: 1 slot.
+
+Detect Traps:  The character rolls 2 fewer dice when looking for traps, and 1 fewer when avoiding a trap that has gone off.  Detect Traps Cost:  2 slots, or 1 if the character also has Alertness. 
+
+Enhanced Hearing:  The character hears much better than normal.  He rolls 1 fewer die on all hearing Perception Checks, and has a chance to hear other characters in situations where they are normally unable to be heard (such as while attempting Stealth, planning an ambush, etc.).  Enhanced Hearing Cost:  3 slots.
+
+Expert Missilleer:  The character gets a +3 bonus to hit with all missile weapons and Missile spells that he knows (or knows how to use).  Expert Missilleer Cost: 3 slots
+
+Expert Swimmer:  The character is an excellent swimmer, and is skilled in techniques such as lifeguarding, CPR, and rescue swimming.  He is certified to save lives on the water, if in a culture that does so.  He can roll a 3d6 Dexterity Check to attempt to rescue a swimmer who is drowning, and can roll a 4d6 Intelligence Check to attempt resuscitation against a swimmer who has lost all Strength to drowning, if begun within 3 minutes.  Expert Swimmer Cost:  1 slot.
+
+Priest:  The character is a priest of his or her religion, ordained by law if in a culture that does so.  He may also have access to priestly spells, if they exist in the campaign (see also the "Warrior & Wizard: Priest" supplement for more details).  The character is also knowledgeable in areas of "priestcraft" -- how to preach, gain converts, administer a temple or a regional church, etc.  Priest Cost:  2 slots. 
+
+Professional Skill:  Professions not otherwise listed or noted here are covered by the Professional Skill.  The Professional Skill must be defined at the time it is purchased, and must be defined as a profession appropriate to the setting in which the game takes place.  Examples are provided on the following list:
+
+Beekeeper, Butcher, Carpenter, Hunter, Fisherman, Scribe, Trapper:  Cost 1 slot
+Baker, Blacksmith, Brewer, Clerk, Cook, Gardener, Potter, Tailor:  Cost 2 slots
+Accountant, Artist, Calligrapher, Lawyer:  Cost 3 slots
+
+The character is capable of making things if his profession calls for it, or otherwise performing the duties of a profession; if a roll is required, he rolls a 3d6 Attribute Check against the appropriate attribute under normal circumstances, 4d6 under emergency or combat conditions, and 5d6 under emergency and combat conditions.  In opposed circumstances, he can make a 3d6 Attribute Check against an opponent's Attribute Check, and the greater margin of success comes out the winner. 
+
+Professional Skill Cost:  See above.
+
+Recognize Value:  A character with Recognize Value can, upon seeing or examining something, tell whether it is valuable or not.  He can't necessarily tell how valuable it is (that's the Assess Value Skill), but he can, for instance, tell valuable wine from vinegar or high value art from bad.  (He may or may not have the ability to gauge the quality of the work, but he does have the ability to tell whether or not it is valuable.)  Recognize Value Cost:  1 slot
+
+Stealth:  The character has the ability to move silently.  On a successful 3d6 Dexterity Check, the character cannot be heard by characters with normal hearing.  Characters with Enhanced Hearing can hear the character up to 3 multihexes away, but only if they are actively listening.  On a failed roll, those with Enhanced Hearing can hear the character if they are passively listening within 3 multihexes; those with normal hearing can hear the character if they are actively listening and within 3 multihexes.  In both cases a successful 3d6 Intelligence Check is necessary, with a margin of success greater than the Stealth character's Dexterity Check.  Stealth Cost:  2 slots
+
+Tough:  A Tough character has had years of rough and tumble combat experience, and has taken a few hits in his time.  He takes one point less damage from every hit in combat.  (If the optional nonlethal damage rules are used, he also takes two points less nonlethal damage.)  Tough Cost:  2 slots.  Prerequisite:  STR 14+
+
+Very Tough:  This character makes the Tough character look like a green troop, wet behind the ears.  He eats cast iron for breakfast and poops out nails at lunchtime, and is frequently portrayed by Jack Palance.  He takes two points less damage from every hit.  (If the nonlethal damage rules are used, he also takes 4 points less nonlethal damage.)  Very Tough Cost:  3 slots.  Prerequisites:  STR 16+ and Tough.
+Min. INT 10:
+Acrobatics:  Acrobatics allows the character to roll one fewer die on any Attribute Checks required to keep his balance, maintain footing, avoid falling objects, or other similar feats.  He can also increase his leaping Movement (....) with a successful 3d6 Dexterity Check.  He can also climb up a rope, or climb a wall, tree, or other obstacle, using a rope, at a rate of 2 hexes per Turn, with no Attribute Check required (anyone without this Skill must roll a successful 2d6 Dexterity Check, and can only move 1 hex per Turn).  Acrobatics Cost:  3 slots.  Min. INT:  10.  Prerequisite:  Dexterity 12 or more. 
+
+Armourer:  An Armourer can perform field repairs on and care for arms and armor (other than Fine weapons, firearms, crossbows, and siege engines) appropriate to the tech level, and can, given facilities and equipment, perform full repairs.  He effectively has the Recognize Value Skill regarding weapons and armor.    Armourer Cost:  2 slots.  Min. INT:  10
+
+Diplomacy:  The character is skilled in the arts of formal negotiation.  He is capable of negotiating in any situation with no penalties for racial or societal enmity or regardless of the current level of hostility.  He is also familiar with low level diplomatic protocols, and he may be certified as a low level diplomatic functionary in societies that do such.  Diplomacy Cost:  1 slot.
+
+Engineer:  This refers to military engineering, and covers the ability to build, maintain, and use siege engines, including the ballista, catapult, trebuchet, etc.  The Engineer can also detect sappers and other types of siege tunnelling and mining.  Engineer Cost:  2 slots.
+
+Espionage:  The character is skilled in low level forms of intelligence gathering.  In high tech societies he knows radio callsigns, encryption methods, messaging schedules, and the like; in low tech societies, he is better at keeping an ear open and catching gossip, but is also knowledgeable in codes, ciphers, and message drops.  Either way, he is also skilled at analyzing the intelligence data he gathers, and extracting useful information from it to pass along to his superiors.  The Espionage Skill does not include assassination methods, silent movement, or combat skills of any kind.    Espionage Cost:  2 slots.
+
+Expert Flying:  The Expert Flying Skill reduces a flying character's combat penalties to zero.  A character with this Skill has no penalties at all in combat due to flying, regardless of the type of attack used.  Expert Flying Cost:  2 slots.  Min. INT:  10.  Prerequisite:  Flying Skill. 
+
+Fencing:  The character is an expert swordsman, studied and skilled in formal sword combat; Fencing is essentially a martial art form.  The character can only use Fencing if his Effective Dexterity is 14 or higher.  In sword combat, the character does double damage on a roll of 5-7 and triple damage on a roll of 3-4.  Fencing Cost:  3 slots.  Prerequisites:  Dexterity 14+, Effective Dexterity 14+, Weapon Familiarity with Swords. 
+
+Flying:  The Flying Skill reduces a flying character's combat penalties.  Characters without this Skill who are themselves flying (via spell or other means) are normally at -2 to hit with melee weapons and spells, and -4 to hit with thrown and missile weapons.  A character with Flying has these penalties reduced by 2; in other words, he is at no penalty to hit with melee weapons and spells, and -2 to hit with thrown and missile weapons.  This Skill has the same cost for Wizards and Warriors.  Flying Cost:  2 slots.  Min. INT:   8.  Prerequisites:  Either having the Flight spell, or knowing someone who has the Flight spell, or having an item of some kind that provides the ability to fly.  Flying creatures and members of flying races know this Skill at no cost!
+
+Lockpicking:  Lockpicking allows a character, given enough time and the appropriate tools, to pick a lock.  This is normally only taught by thieves; the character must either be a member of the Thieves' Guild, or know a thief, to learn this Skill.  Locks are rated in numbers of dice, representing the level of Attribute Check the character must succeed at to pick the lock; characters without this Skill roll twice as many dice.  Lockpicking Cost:  1 slot.
+
+Martial Arts I:  This is a basic, formally studied unarmed combat form.  The Skill represents multiple forms, and the player can choose which the Skill is intended to represent.  The character does one extra point of damage when fighting bare-handed.  In order to use any Martial Arts Skills, the character must either be unarmored or wearing armor no heavier than cloth.  Martial Arts I Cost:  2 slots.  Prerequisites: DEX 13+
+
+Mimic:  Mimic allows the character to mimic sounds with his voice.  He can mimic specific voices and accents, as well as other sounds he is familiar with (for instance, having Naturalist Skill allows the character to mimic animal sounds).  Human or humanoid listeners make a 4d6 Intelligence Check to avoid being fooled (rolled by the GM); animals roll 2d6.  Every attempt to mimic a voice or sound is a separate roll.  Mimic Cost:  2 slots.
+
+Naturalist:  The character is knowledgeable about herbs, animals, naturecraft, and so forth.  He is skilled at wilderness survival and recognizing creatures; he can recognize any normal plants, animals, and monsters (but not necessarily those specially created by the GM).  If he also has the Alertness Skill, he gets a 3d6 Intelligence Check (5d6 if he's running or fighting) to recognize an ambush in an outdoor area.  Even if he fails this roll, he still has a chance to dodge the attack.  Naturalist Cost:  2 slots. 
+
+Remove Traps:  This Skill allows a character to, when disarming a trap, roll the trap's rated number of dice on a Dexterity or Intelligence Check.  Characters without the Remove Traps Skill roll twice that many dice.  Remove Traps Cost:  1 slot.  Prerequisite: Detect Traps
+
+Sleight of Hand: Sleight of Hand allows the character to pick pockets as well as palm small objects and perform "magic tricks" such as card tricks and the like (though it grants no ability to perform actual spells).  The character rolls a 3d6 Dexterity Check; failure gives the victim(s) or viewers a 3d6 Intelligence Check (with a bonus equal to the margin of failure) to detect the attempt (or see how the trick was done).  Sleight of Hand Cost:  2 slots, or 1 slot if the character has the Lockpicking Skill. 
+
+Tracking:  Tracking allows the character to tell what kinds of creatures frequently pass through an area.  On a successful 3d6 Intelligence Check (rolled by the GM) he can tell what kinds of creatures have been through recently, and on a 4d6 check can follow a trail (characters without the Tracking Skill roll 5d6 to follow a trail).  Tracking Cost:  1 slot.
+
+Trading:  The character is good at making deals and has some general business knowledge.  He is at +1 on all rolls involving trade.  On a particularly good roll (margin of success 5 or more) he can sell an item for up to twice its value, or buy one for as low as half its value (if the target also has Trading or the Assess Value Skill, or has some particular knowledge of the item in question, he can make an opposed Intelligence Check).  Trading Cost:  2 slots.  Min. INT:  10
+Min. INT 11:
+Architect/Builder:  The character can design, build, and act as a construction foreman on large building projects such as houses, cathedrals, castles, and other buildings.  He can also determine the best place to construct a building, taking into account factors such as flooding, the type of ground, and the like.  He is skilled with reading plans and maps, and has the equivalent of the Recognize Value Skill regarding buildings and real estate.  He can also determine potential weak spots in a building, given either the plans or some time to walk around and examine it.  Architect/Builder Cost: 2 slots  Min. INT:  11.  Prerequisite:  Literacy
+
+Artisan:  An Artisan is capable of building small mechanical objects and gadgets; he is also capable of disarming traps (if you already have the Remove Traps Skill, Artisan costs only one slot).  He is also capable of acting as an Armourer as regards crossbows and siege engines.  Besides removing traps, the Artisan can also build them; the amount of time required is two hours for every die in all of the checks required to see, dodge, and remove the trap (for example, a trap that required a 3d6 check to detect, a 4d6 check to dodge, and a 4d6 check to remove, would take (3 + 4 + 4) x 2 = 22 hours to build).  Cost and availability of materials are up to the GM.  Artisan Cost: 2 slots.  Min. INT:  11
+
+Casual Riding (Flying Animal): This Skill is identical to Casual Riding, except that it applies to a flying animal of some kind.  The only difference is the higher INT requirement, because of the additional factors involved in flying.  Choose one type of flying animal to be your mount.  Casual Riding (Flying Animal) Cost:  1 slot.  Min. INT: 11.
+
+Chirurgeon:  The Chirurgeon is a skilled physician.  He can heal up to 2 points of damage to any character (lethal or nonlethal, though not STR loss due to spellcasting), immediately after the combat or incident in which the damage was incurred.  He must have a medical kit.  Two or more chirurgeons cannot pool their efforts to heal a character of more than 2 points.  Each use of Chirurgeon Skill takes 5 minutes.  A character with both  Naturalist and Chirurgeon is an herbal healer, and can use herbal medicines; in an outdoor area he can gather the appropriate herbs and plant medicines to do the trick, rather than needing his medical kit (GM's option as to whether they're available, though the default should be "yes").  Chirurgeon Cost:  2 slots. 
+
+Combat Driving:  Combat Driving allows a character to drive a wheeled conveyance of some kind, appropriate to the campaign's technology level, under combat conditions.  See below under Combat Riding for more information on the circumstances under which this Skill applies.  Combat Driving Cost:  2 slots.  Min. INT:  11.  Prerequisite:  Casual Driving Skill. 
+
+Combat Riding:  Combat Riding allows a character to ride an animal in combat or emergency situations, to keep the animal from spooking in these situations, and to more effectively control the animal.  The Combat Rider need not make a check if only one of the factors listed in Casual Riding is present; two or more is a 3d6 Effective Dexterity Check, and every additional two factors increases the check by one die.  The Combat Rider can attack while mounted at no additional penalty, and he is skilled at controlling his mount with leg pressure and voice commands only; it therefore costs him no actions to move his mount.  Combat Riding applies to all animals the character is capable of riding.  The character is also capable of training the animals he is familiar with as if he had Animal Handling, and is capable of treating them as if he were a Veterinarian.  Combat Riding Cost:  2 slots.  Min. INT:  11.  Prerequisite:  Any Casual Riding Skill. 
+
+Detect Lies: The character has the ability to detect whether another character is lying, based on body language, breathing, eye contact, and numerous other factors.  Roll a 3d6 opposed check, Intelligence vs. Intelligence (the GM rolls both sides); if the character with this Skill wins, he knows the other person is lying.  If the GM wins, he lies about whether or not the other person is lying.  (This Skill won't tell him what the truth is, only that the other person is lying.)  Detect Lies Cost:  2 slots.
+
+Goldsmith: Goldsmith is the ability to craft jewelry and other small objects out of gold, silver, jewels, etc.  A character with both Goldsmith and Armourer Skill can craft silver weapons (swords, daggers, arrowheads, bullets, etc.).  Goldsmith Cost:  2 slots.  Prerequisite:  Recognize Value
+
+High Society:  This is the ability to fit in with the upper crust of society.  The character knows the appropriate protocols for dealing with heads of state, old money, celebrities, etc.; he also knows which fork to use when, any number of dances appropriate to the society, and so on.  The character gets +1 on any social interaction rolls with any character who would see this as favorable, though -2 with anyone who is unimpressed with high society.  A character with both Diplomacy and this Skill can be posted as a diplomatic functionary to another court or government.  High Society Cost:  1 slot. 
+
+Outdoorsman:  The Outdoorsman is knowledgeable at outdoor survival.  He is capable of living off the land, and is an expert at camping and surviving.  He can make camp, build a fire in the rain, tell edible plants from toxic, snare or hunt small game animals, etc.  Wilderness travel is at half speed unless half the party or more have Outdoorsman Skill; also, if the party lacks appropriate camping equipment, rations, etc., each member must roll a daily 3d6 Intelligence Check or take 1 point of damage due to exposure, insufficient food and rest, etc., unless there is at least one Outdoorsman in the party.  Outdoorsman Cost:  1 slot.  Prerequisite:  Naturalist. 
+
+Shipbuilder: A character with Shipbuilder Skill can, given time, materials, equipment, etc., build a seagoing vessel of any size from small boat up to capital ship.  (Larger vessels require larger numbers of Shipbuilders, more time, and more equipment such as cranes and other heavy construction equipment.)  Shipbuilder Cost:  2 slots.
+
+Tactics: This is the ability to formulate battle plans, anticipate what the enemy will do, and "push troops".  The character can use this in combat at any scale from single to about battalion size.  A character with both Tactics and Captain is eligible to command a warship, and is considered to specialize in naval tactics.  The character can have the GM roll a 5d6 Intelligence Check to determine what the enemy (NPC) will do; if the roll succeeds, the GM must tell the player, truthfully, what he plans to have the enemy do.  The character (and his party, if he is the party leader) gets +1 on any initiative rolls.  Tactics Cost:  1 slot. 
+
+Two Weapon Fighting:  A character with this Skill has the ability to fight with a weapon in each hand.  More to the point, he can fight with two weapons that aren't part of a combination (combinations are sword and dagger, sword and main gauche, sword and spiked buckler, net and trident, paired cesti); a character without this skill can fight with two weapons that are part of a combination.  The character can:
+
+Attack with both weapons, against the same or different targets.  The first attack is at normal value; the second is at -4. 
+Attack with one weapon and parry (defend) with one. 
+Parry (defend) with both. 
+
+Two Weapon Fighting can be used in combination with the Fencing talent and appropriate weapons (two rapiers or a rapier and main gauche).  Two Weapon Fighting Cost:  3 slots.  Prerequisites:  DEX 13+, skills for all weapons used. 
+
+Veterinarian:  This is the equivalent of Chirurgeon Skill, used on animals, and works exactly as that Skill does.  Veterinarian Cost:  2 slots, or 1 slot if the character already has Chirurgeon (a character spends 3 slots for both).  Prerequisite:  Animal Handling.
+Min. INT 12:
+Assess Value:  A character with Assess Value can determine the value of an item.  On a successful 3d6 Intelligence Check, the character can determine the value to within about 10%, or with a margin of success of 3 or greater within 1%.  The character must be able to examine the item, preferably by handling it; if he can't handle it but can view it, he is at a -1 penalty, and if he can neither handle nor view it he is at -3 at best.  The character might be able to detect some types of hidden damage, though he won't necessarily know how to fix it.  If the character knows an item is magical and knows what the enchantment is, he can determine its market value, but this Skill doesn't provide him any abilities to detect magic (though if it's a unique item with a reputation he may well know some, most, or all of its abilities).  Assess Value Cost:  1 slot.  Min INT:  12.  Prerequisite:  Recognize Value
+
+Casual Riding (All Animals):  This Skill is identical to Casual Riding, except that it applies to all animals, flying and non-.  Characters with Casual Riding who meet the INT Minimum need only pay 1 slot to "upgrade" to this Skill.  Casual Riding (All Animals) Cost:  2 slots.  Min. INT: 12
+
+Captain: This is the ability to command a ship; any kind of vessel that takes a crew, civilian or navy.  A Captain with Tactics Skill can command a warship.  Having a Captain grants the party +1 to initiative in any combat involving ships.  Captain Cost:  2 slots.  Prerequisite: Sailor, plus at least two years on a ship. 
+
+Expert Naturalist:  The character with Expert Naturalist rolls one fewer die than a Naturalist in all situations related to Naturalist Skill.  He can recognize all plants, races and creatures, intelligent and non-, and knows numerous facts about them; he can also make good guesses about creatures he has never before seen or heard of (4d6 Intelligence Check).  Expert Naturalist Cost:  3 slots.  Prerequisite:  Naturalist. 
+
+Expert Stealth:  This is the ability to "hide in plain sight".  With successful 3d6 Intelligence Check, the character can hide in an area even when there is a chance someone might be able to see him; if there is any cover at all he can hide behind it, or he can hide in bizarre areas where no one would think to hide, much less look.  He can peek around corners and through windows and slightly-open doors without being seen.  With a successful 4d6 Intelligence Check he can "break a tail" if there is someone following him.  (Without this Skill these checks are on 5d6 and 7d6, respectively.)  To use Expert Stealth, the character must be wearing leather, cloth, or no armor.  Expert Stealth Cost:  3 slots.  Prerequisite: Stealth
+
+Martial Arts II:  Exactly like Martial Arts I, except that the character does 2 points of damage in combat.  The character can also throw a target; this acts like a shield rush, and uses the rules for shield rush, but doesn't use a shield.  Martial Arts II Cost:  2 slots.  Prerequisite:  Martial Arts I.
+
+Master Armourer: A Master Armourer is an extremely skilled and experienced Armourer.  He can make weapons of Fine quality; if he is also a Goldsmith, he can make silver weapons of Fine quality.  He can make or duplicate any weapon available at his technology level; he can also craft "blanks," or weapons of sufficient quality to take an enchantment.  He can always tell whether a weapon is magical, and by making a 4d6 Intelligence Check, he can identify the enchantment.  He effectively has the Assess Value Skill as regards weapons, and on a successful 3d6 Intelligence Check he can identify the region where the weapon was made; if the weapon was crafted by a Master Armourer, he will be able to identify which one.  With a margin of success of 3 or more, if the weapon was crafted by an apprentice or journeyman trained by a Master Armourer, he can identify the master!  Master Armourer Cost:  2 slots. Prerequisite: Armourer.
+
+Master Thief: The character is a master thief.  The character rolls 1 fewer die when picking a lock or a pocket.  The character also knows the Thieves Cant.  When lying, even to someone with Detect Lies,  the other character rolls one additional die on their Intelligence Check.  Master Thief Cost:  2 slots.  Prerequisites:  Lockpicking, Sleight of Hand
+
+Ventriloquist: This is the ability to make your voice come from somewhere else.  Requires a successful Intelligence Check, -1 for every multihex from you to where you want your voice to come from.  Failure means no one is fooled.  Ventriloquist Cost:  2 slots.
+Min. INT 13:
+Chemist:  A Chemist is capable of identifying and creating chemical formulae (as opposed to alchemical).  He can make gunpowder and other reasonably well known chemical formulae, given the necessary equipment and facilities.  On a successful 3d6 Intelligence Check, he can identify a chemical formula, or if the item is alchemical, he can identify that it is an alchemical formula.  Chemist Cost:  3 slots.  Prerequisite: Mathematics
+
+Master Artisan:  A Master Artisan is an expert in his craft.  He can make anything an Artisan can, at Fine quality.  He can make gunpowder weapons, crossbows, and siege engines.  When building things (including traps) it takes half the time it would take an Artisan, or if reassembling an item that has been disassembled it takes a quarter the time.  Master Artisan Cost:  2 slots.  Prerequisite:  Artisan
+
+Mathematics: This is knowledge of mathematics at all levels, and is necessary for many scientific disciplines.  A Mathematician has all of the social advantages of a Scholar in the mathematical and scientific communities, as well as at universities and other centers of learning.  Mathematicians are also capable of performing research and teaching in mathematical and scientific disciplines.  A Mathematician can improve his profits by 10% through knowledge of accounting techniques.  Mathematics Cost:  2 slots (the same for Wizards and Warriors).  Prerequisite: Literacy
+
+Scholar: The character is well studied and knowledgeable in the methods and protocols of academia.  He is capable of teaching and performing research, and is at +1 in all social situations involving academics or other scholars.  He can automatically recognize all common languages in use, and (with a 3d6 Intelligence Check) recognize uncommon ones, even if he doesn't speak them.  On a 4d6 Intelligence Check, he can make a good guess as to the origin of most artifacts and magical items.  Scholar Cost:  3 slots.  Prerequisite:  Literacy
+
+Strategy: This is knowledge of strategy and military science.  This is a higher level than Tactics; it involves coordination of troop movements at battalion level and above, knowledge of supply lines, the ability to coordinate disparate operations groups (such as air and ground, or ground troops and psychological operations), and the like.  A character with Captain and Strategy is capable of commanding a fleet.  A party that contains a Strategist recieves +2 on all Initiative in combat.  Strategy Cost:  2 slots.  Prerequisites:  Tactics, plus two years' military experience. 
+
+Piloting:  Piloting is the ability to fly a conveyance of some kind, whether animal drawn, magical, or technological in nature.  The Skill assumes an ability to react appropriately under emergency (though not necessarily combat) conditions; Pilots don't need to roll an Attribute Check at all in non-emergency situations, and roll 3d6 in all noncombat emergency situations, 4d6 in combat conditions, or 5d6 under combat and emergency conditions.  Pilot Cost:  2 slots. 
+Min. INT 14:
+Alchemy:  Alchemy allows the character to brew potions and other magical and alchemical formulae.  Alchemy has the same cost for Wizards and non-Wizards (3 slots).  On a successful 3d6 Intelligence Check, the alchemist can, given the appropriate equipment, materials, and laboratory, create any of the listed potions or other formulae.  He can also, with a successful 3d6 Intelligence Check, identify an alchemical potion by type and function, or (if the item is a chemical formula rather than alchemical) identify that it is chemical rather than alchemical.  Any character with this Skill can buy the Chemistry Skill at a cost of one less slot, due to their similarity; a Wizard with the Alchemy Skill doesn't pay any extra for Chemistry.  Alchemy Cost:  3 slots.  Min. INT: 14
+
+Combat Pilot:  Combat Pilot allows a character to fly an airborne conveyance against other aircraft in combat conditions.  See under Casual Riding and Combat Riding for the types of conditions under which this might apply.  Combat Pilot Cost:  1 slot.  Min. INT:  14.  Prerequisite:  Pilot Skill. 
+
+Disguise: The character is capable of altering his appearance in order to deceive others.  Given the appropriate materials, a disguise takes about an hour to apply; this is to disguise oneself as a specific person.  A generic disguise (such as a soldier or a homeless person) takes about five minutes and requires no roll.  The GM rolls an Intelligence Check for the character, and tells him whether or not he succeeds.  The degree to which a person attempts to disguise himself can increase the difficulty of the roll; the same sex and species is 3d6, while changing one of these is 4d6 and both 5d6.  Changing to a radically different species (such as a human attempting to impersonate a dwarf or a giant) adds 1d6, and attempting to impersonate the same characteristic as one possessed by the viewer adds an additional 1d6.  Using appearance altering magic or powers reduces the difficulty by 1d6, as does having the Mimic Skill.  Disguise Cost:  2 slots. 
+
+Master Chirurgeon:  A Master Chirurgeon has all of the abilities of a Chirurgeon, and can heal one additional point of damage with or without a medical kit.  (Note that healed damage is not cumulative between Master Chirurgeons and/or Chirurgeons; two of either or both can't work together to add their healing abilities).  A Master Chirurgeon can brew a Healing Potion as if he were an Alchemist.  Master Chirurgeon Cost:  2 slots.  Prerequisite:  Chirurgeon
+
+Theologian: This provides the same benefits as Priest, to a higher degree.  The character is more highly ranked in his church hierarchy, and if a Priest has access to any kind of bonuses or powers, the Theologian should receive about two times the bonuses.  The Theologian is extremely knowledgeable in the history, customs, and rituals of his own religion and, often, of similar or allied religions.  Theologian Cost:  2 slots.  Prerequisite:  Priest. 
+Weapon Skills (Min. INT varies):
+Weapon Familiarity: The character is familiar with a weapon, or type of weapon, and knows how to use it in combat at no penalty.  Attempting to use a weapon in combat without knowing how to use it incurs a -4 penalty on all rolls to hit; some weapons either can't be used unskilled or can potentially injure the unskilled user (this is noted in the weapon's description).  Costs and Minimum Intelligence scores for the various weapon groups are listed in the table below:
+
+
+Skill
+Slots
+Min. INT
+Notes
+Axe/Mace/Hammer
+2
+7
+Except club (no skill required)
+Blowgun
+1
+8
+Uncommon Missile Weapon
+Bola
+1
+8
+Uncommon Thrown Weapon.  Prerequisite: Thrown Weapons
+Boomerang
+1
+8
+Uncommon Thrown Weapon.  Prerequisite: Thrown Weapons
+Bows
+2
+7
+
+
+Common Melee Weapons
+3
+9
+Weapon Category
+Common Missile Weapons
+3
+9
+Weapon Category
+Crossbow
+1
+7
+
+
+Guns
+2
+8
+Refers to pre-modern firearms.  Weapon Category
+Knife
+1
+7
+Regular cost for Wizards
+Lasso
+2
+8
+Uncommon Thrown Weapon
+Longbow
+1
+7
+
+
+Missile Spells
+1
+8
+Regular cost for Wizards
+Naginata
+1
+8
+Uncommon Melee Weapon.  Prerequisite: Pole Arms
+Net and Trident
+
+
+
+
+Prerequisite:  Pole Arms
+Pistols
+1
+8
+Refers to modern pistols
+Pole Arms
+2
+7
+
+
+Quarterstaff
+1
+8
+Uncommon Melee Weapon
+Rifles
+1
+8
+Refers to modern rifles
+Sha-Ken
+1
+8
+Prerequisite: Thrown Weapons
+Shield
+1
+7
+
+
+Shortbow
+1
+7
+
+
+Shotguns
+1
+8
+Refers to modern shotguns.
+Sling
+
+
+
+
+
+
+Small Arms
+2
+8
+ Weapon Category
+Swords
+2
+7
+Weapon Category (includes Knives).  Part of Common Melee Weapons
+Thrown Spells
+1
+8
+Regular cost for Wizards
+Thrown Weapons
+2
+8
+
+
+
+
+
+The weapon categories are as follows:
+
+Common Melee Weapons: Includes Axe/Mace/Hammer, Knives, Pole Arms, Swords. 
+Common Missile Weapons: Includes Bows, Crossbows, Slings. 
+Uncommon Melee Weapons: Each of the following is its own Skill and must be bought separately:  Blowgun, Bola, Boomerang, Cestus, Lasso, Naginata, Net, Quarterstaff, Sha-Ken, Spear Thrower. 
+Common Small Arms:  Pistols (incl. Revolvers), Rifles, Shotguns, Submachine Guns. 
+Common Thrown Weapons:  Thrown Rock, Thrown Knife, Grenades. 
+
+The cost of any of the "Common" groups is reduced if you have any of the component groups, by the cost of the component groups.   More information on weapons, including using them in combat, may be found in the Combat section.
+
+Familiarity with a weapon also provides some effective Armoury skill when using that weapon; the character knows how to perform basic field maintenance and some extremely minor repairs.  Weapon Familiarity Cost:  See table.  Min. INT:  See table.
+Fighting
+First, some necessary definitions:
+
+Threat Zone:  The hex immediately in front of a character, and the two hexes immediately adjacent to that hex.  Also called the character's "front hexes".  A character who is unconscious, dead, fallen, prone, surprised, etc., has no Threat Zone. 
+
+Disengaged:  A character who is not in another character's Threat Zone is Disengaged. 
+
+Engaged:  A character who is in another character's Threat Zone is Engaged.  The character doing the Engaging need not necessarily himself be Engaged, though two characters who are facing one another and are in each other's Threat Zones are both Engaged with each other.  It is possible that a character may be unable to Engage another, due to large disparities in size, power level, etc.; a normal human (one hex) is unable to, by himself, Engage a dragon (seven hexes or more). 
+
+Characters who are Disengaged have much more freedom of movement than characters who are Engaged; see below under Combat Movement for more information. 
+Phases:
+A combat turn is broken up into the following Phases:
+
+1. Initiative:  Determine who goes first. 
+2. Spell Upkeep:  If applicable.
+3. Movement:  Characters take their movement actions. 
+4. Combat Actions:  This includes fighting and casting spells. 
+
+During each Phase, only the stated actions occur.  Actions are not simultaneous; first one character's action happens, then another's. 
+
+Initiative:  During the Initiative phase, characters don't do anything.  Players determine which character goes first.  Characters go in order of their Effective Dexterity scores, from high to low.  If two characters are tied, each of them makes a Dexterity Check; the character with the higher margin of success goes first. 
+
+The initiative order determined during this Phase holds for the rest of the combat turn, even if a character's Effective Dexterity changes during the turn. 
+
+Optional Advanced Initiative System: All characters make a Dexterity Check, and go first in order from highest to lowest margin of success. 
+
+Spell Upkeep:  Some spells require spending additional Strength in order to maintain an ongoing effect; if so, a character does this on his turn, before moving.  If he moves, but fails to announce he is performing upkeep, any spell that required upkeep to continue for this turn fails. 
+Combat Movement
+Characters move in Initiative order, with the exception of chases (situations where one character is moving and another character is trying to catch him -- this isn't a strict game definition; if it looks like a chase then it is one).  In a chase, the character ahead always moves first, though for the other Phases the characters act in Effective Dexterity order. 
+
+Important General Rule of Thumb:  Regarding combat movement and actions, a character can perform any action which his movement during the Turn and current circumstances allow.  For instance, if a character performs a Shift action while Engaged (thus moving one hex) and then somehow stops being Engaged for any reason (the character Engaging him dies, falls over, disappears, or anything else) he is now treated as a Disengaged character who has moved one hex, and can perform any of the actions available to a Disengaged character that has only moved one hex; he could shoot with a missile weapon if he has it ready, or cast a spell, or ready a weapon, or drop, or dodge, or attack with a ready melee weapon or barehanded if he has a target.
+
+Disengaged Characters:  During the Movement Phase, only characters who are Disengaged may move freely.  A Disengaged character can make the following types of movement actions:
+
+Stand up:  Standing up, from a fallen, prone, or kneeling position, costs the character's full Movement for the Turn. 
+Step:  The character can move one hex.
+Jog:  The character can move up to two hexes. 
+Half Move:  The character can move up to half of his Movement (round up).
+Full Move:  The character can move up to his full Movement. 
+Delay: The character can choose to temporarily end his movement, to wait and see what else happens during the turn.  A Delay action can be performed after moving any amount up to half of the character's Movement score. 
+
+Engaged Characters:  During the Movement Phase, characters who are Engaged are much more limited in their choices.  An Engaged character can make one of the following types of movement actions:
+
+Stand up:  This is identical to a Disengaged character's Stand up movement action. 
+Shift:  The character may move up to one hex, to another hex in which his Engagement status does not change.  (In other words, he must be Engaged with all of the characters he was Engaged with before.  If he was Engaged with only one character, he may move to one adjacent hex in his opponent's threat zone; if he was Engaged with more than one character, the adjacent hex he moves to must be in all opponents' threat zones.)  It costs the same amount of Movement as a Step (one hex in either case); the main difference between a Step and a Shift is that a Shift is done while Engaged, and must be done from an Engaged position to another Engaged position with the same character.
+Stand still:  And use no movement. 
+Combat Actions
+When it comes to combat, a character is considered to be in one of two states:  Engaged or Disengaged.  A character who moves into another character's threat zone (which means the hex directly in front of that character and the two hexes on either side of it) becomes Engaged and must stop moving immediately.  An Engaged character is Engaged regardless of his own facing; the salient feature is that another character is capable of attacking him. 
+
+A character who is anywhere but in another character's threat zone is Disengaged and may move freely. 
+
+During the Combat Actions Phase, a character who is Disengaged may perform one of the following actions (note in all instances the Move portion of the action has already occurred during the Movement Phase):
+
+Stand up:  A character who is prone, kneeling, or fallen may stand up during the turn and do nothing else. 
+Take a breather:  (Optional)  A character can recover 1d6 nonlethal damage and do nothing else. 
+Move one hex and shoot:  A character who has moved no more than one hex may shoot with a missile weapon he has ready.
+Move one hex and cast:  A character who has moved no more than one hex may cast a spell.
+Move one hex and disbelieve:  A character who has moved no more than one hex may attempt to disbelieve an illusion (see below under Disbelieving Illusions).
+Move two hexes and ready.  A character who has moved no more than two hexes may ready a weapon that is not currently ready.
+Half move and drop.  A character who has moved no more than half of his Movement may drop to the ground, to a prone or kneeling position (the player specifies which)
+Half move and Dodge.  A character who has moved no more than half of his Movement may perform a Dodge action. 
+Charge and attack.  A character who has moved no more than half of his Movement may attack with any ready weapon except a missile weapon. 
+Full move.  A character who has moved more than half, up to his full Movement score may do nothing else during the turn.
+
+A character who is Engaged may perform one of the following actions (note again that all movement related to these actions has already occurred during the Movement Phase): 
+
+Stand up.  A character who has already stood up during the turn may do nothing else. 
+Stand still and shoot a charging enemy.  A character who has not moved during the Turn may shoot at a charging enemy with a ready missile weapon.  He then drops the weapon.  A character can almost always do this; the situations in which he can't will be specified. 
+Stand still, drop and/or pick up weapons.  A character who has not moved during the Turn may drop any weapon(s) he has in hand, and/or a shield, and pick up any dropped weapons in his hex.  He may do nothing else.
+Shift one hex and attack:  A character who has moved no more than one hex may attack with a non-missile, ready weapon.
+Shift one hex and defend:  A character who has moved no more than one hex may perform a Defend action.
+Shift one hex and switch:  A character who has moved no more than one hex may drop a weapon he has in hand, and ready a new non-missile weapon.
+Shift one hex and attack hand-to-hand:  A character who Shifted during his Movement Phase may attack barehanded or with a small HTH weapon.  He drops all weapons he has in hand that are not small HTH weapons.
+Shift one hex and cast:  A character who Shifted during his Movement Phase may cast a spell.
+Shift one hex and disbelieve:  Identical to the "move one hex and disbelieve" action for a Disengaged character.
+Disengage:  A character who has not moved during the Turn may attempt to move out of an opponent's threat zone. 
+
+The actions are further explained below:
+
+Stand up:  A character who has fallen, been knocked down, dropped prone or to his knees may stand up.  This uses up all of his movement for the turn. 
+
+Shoot:  The character attacks another with a ready missile weapon. 
+
+Attack:  The character attacks another with a non-ranged attack (ready melee weapon or barehanded). 
+
+Defend or Dodge:  These both act exactly the same; Defend is used by a character who is Engaged, against hand-to-hand or melee combat (i.e. any non-ranged attack), while Dodge is used by a character who is Disengaged, against ranged attacks (missile attacks or thrown weapons, including ranged Spells).  In order to Defend, a character must have a ready weapon in hand with which to parry or block the incoming attack; in order to Dodge, the character must be able to move. If a target is Dodging or Defending, the attacker rolls 4d6 to hit him instead of 3d6. 
+
+Disengage:  The character attempts to move one hex, to a hex outside of the opponent's threat zone.  A Disengage action occurs during the Combat Actions phase rather than Movement.  To Disengage, move one hex away from the opponent, outside of his threat zone.  If he wishes to attack you he may do so, regardless of your relative Effective Dexterity scores; if your Effective Dexterity is greater than his, his attack roll is at -1 per point of difference. 
+
+Special note:  A character who performs a Step action into another character's threat zone (thus becoming Engaged) may be treated as if he performed a Shift action, and can perform any of the "Shift and..." actions. 
+Attacking
+The attacker rolls a Dexterity Check, modified by his weapon, armor, wounds, Skill, and other factors.  On a successful check, he hits the target and rolls the weapon's damage. 
+Damage
+When a character is damaged in combat, subtract the value of any armor, protective Spells, or other protective abilities from the amount of damage; the result is the amount of damage the character takes.  For example, if a target wearing Plate armor (with an armor value of 5) is hit for an attack dealing 8 points of damage, he takes (8-5) 3 points. 
+
+Effects of Damage
+
+A character's Effective Strength is equal to his regular Strength minus the amount of damage he has taken.  When a character's Effective Strength reaches 1 as a result of damage, he falls unconscious; when it reaches 0, he dies. 
+
+A character that takes 5 or more points of damage in a single Turn has his Effective Dexterity reduced by 2 for the next Turn only. 
+
+A character that takes 8 or more damage in a single Turn falls down.  If the damage is figured after armor, the character falls down automatically; if the total is 8 damage before armor but less than that after, the character can make a Dexterity Check at -2 (no penalty if he has the Acrobatics Skill) to avoid falling down.  If this roll is successful, he is instead moved back one hex. 
+
+If using the Optional Movement Rules above, a character loses 1 Movement for every 2 damage he takes (this is calculated from Strength loss; don't recalculate Movement for Strength then apply this as additional penalty!). 
+
+Optional Nonlethal Damage Rule:  Damage is divided into two types: Lethal and Nonlethal.  There are four types of attacks: 
+
+Stunning, which do all of their damage as Nonlethal only
+Bludgeoning, which do 1/3 of their damage as Lethal and 2/3 as Nonlethal
+Damaging, which do all of their damage as Lethal
+Shock, which do all of their damage as Lethal, and the same amount as Nonlethal
+
+All other attacks, and spells that are not specified, do their full damage as Lethal.  Strength loss from spellcasting is considered to be Nonlethal damage.  As in the Optional Spellcasting Damage Rule, a character falls unconscious when he has taken a total amount damage (Lethal and Nonlethal) equal to his Strength, but only dies when his Lethal damage equals his Strength score. 
+
+Armor stops Lethal damage first, and healing spells heal Lethal damage first, unless otherwise specified. 
+
+A character can take a breather; he does nothing else and recovers 1d6 worth of nonlethal damage.  This means he does nothing else during the turn; no movement, no fighting, no spending STR on maintaining spells (though any spells that aren't up for upkeep this turn, or any spells that cost 0 STR for upkeep, will continue).  If he takes any damage at all through armor, lethal or nonlethal, during the Turn, then his breather is spoiled and he does not recover.  Other characters are at +3 to hit a character who is taking a breather.
+
+A character who goes unconscious essentially spends every turn taking a breather; he recovers 1d6 nonlethal damage each turn.  He becomes conscious once he recovers more STR than the amount of lethal damage he has taken (note that that's greater than, not greater than or equal to; a character who has taken 2 lethal damage has to recover to 3 STR or better before he becomes conscious).  Example:  A character with 10 STR who has taken 12 damage, 4 lethal and 8 nonlethal, is now at -2 STR.  Since he has taken 4 lethal damage he has to recover to greater to 5 or more STR, so he has to recover at least 7 STR worth of nonlethal damage. 
+
+A character who has gone unconscious due to taking a total of more than half his STR in lethal damage won't wake up during this combat; it takes 1 minute per additional STR loss to wake up, and he has to be receiving some kind of assistance. 
+Standard Damage Progression
+When converting bonuses to dice, the progression is:  1 point, 2 points/1d6-4, 3 points/1d6-3, 1d6-2, 1d6-1, 1d6.  Dice are additive to this; 1d6+2 with an additional +1 becomes 1d6+3 or 2d6-3, an additional +1 makes it 2d6-2, and so on.  When a value falls on the cusp between some number of dice +3 and one more die -3, (for example, 1d6+3 and 2d6-3) usually the better choice is fewer dice with the bonus. 
+
+See the following table: 
+
+Damage Progression Table
+
+
+Bonus:
+0 dice
+One die
+Two dice
+Three dice
++1
+1 point
+1d6+1
+2d6+1
+3d6+1
++2
+2 points/
+1d6-4
+1d6+2
+2d6+2
+3d6+2
++3
+1d6-3
+1d6+3/
+2d6-3
+2d6+3/
+3d6-3
+3d6+3/
+4d6-3
++4
+1d6-2
+2d6-2
+3d6-2
+4d6-2
++5
+1d6-1
+2d6-1
+3d6-1
+4d6-1
++6
+1d6
+2d6
+3d6
+4d6
+
+When adding bonuses to values that already have bonuses or penalties, a full dice value +1 goes to the top of the next column.  For instance, 1d6+3 with an additional +4 in bonuses becomes 1d6+7 which becomes 2d6+1, while 1d6-3 with +4 in bonuses becomes 1d6+1. 
+
+This table can also be used to determine base damage done by Strength value; the 0 dice column is simply Strength equal to the listed bonus, while the one die column is equal to 6 plus the bonus, the two dice column 12 plus the bonus, and so on.  A punch is considered a bludgeoning attack, while any other attack does damage by weapon type.  (For example, a character with 10 Strength (read the One die column at +4) does 2d6-2 bludgeoning damage with a punch, while a character with 14 Strength would do 2d6+2.) 
+
+
+
+
+Weapons
+The weapons available to characters in WARRIOR & WIZARD are listed in the table below. 
+
+Weapons Table
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon Name
+Damage
+STR Min.
+Length
+Notes
+
+
+
+
+
+
+
+
+
+
+Knives:
+
+
+
+
+
+
+
+
+Dagger
+1d6-1
+-
+Short
+Thrown
+Main-Gauche
+1d6-1
+-
+Short
+
+
+Swords:
+
+
+
+
+
+
+
+
+Rapier
+1d6
+9
+Medium
+
+
+Cutlass
+2d6-2
+10
+Medium
+
+
+Short Sword
+2d6-1
+11
+Medium
+
+
+Broadsword
+2d6
+12
+Medium
+
+
+Bastard Sword (1-hand)
+2d6+1
+13
+Medium
+
+
+Bastard Sword (2-hand)
+3d6-2
+13
+Medium
+
+
+2-handed Sword
+3d6-1
+14
+Medium
+2-handed
+Great Sword
+3d6+1
+16
+Medium
+2-handed
+
+
+
+
+
+
+
+
+
+
+Axe/Mace/Hammer:
+
+
+
+
+
+
+
+
+Club
+1d6
+9
+Medium
+Thrown
+Hatchet
+1d6
+9
+Medium
+Thrown
+Hammer
+1d6+1
+10
+Medium
+Thrown
+Mace
+2d6-1
+11
+Medium
+Thrown
+Small Axe
+1d6+2
+11
+Short
+Thrown
+Pick
+2d6
+12
+Medium
+
+
+Morningstar
+2d6+1
+13
+Medium
+
+
+Great Hammer
+2d6+2
+14
+Medium
+2-handed
+Battleaxe
+3d6
+15
+Medium
+2-handed
+
+
+
+
+
+
+
+
+
+
+Pole Arms:
+
+
+
+
+
+
+
+
+Javelin
+1d6-1
+9
+Medium
+Thrown
+Spear
+1d6+2
+11
+Long
+Thrown, 2-handed
+Halberd
+2d6-1
+13
+Long
+2-handed
+Pike Axe
+2d6+2
+15
+Long
+2-handed
+Trident
+1d6
+10
+Medium
+
+
+Naginata
+1d6+2
+10
+Long
+2-handed
+Cavalry Lance
+3d6-1
+13
+Long
+
+
+Pike
+2d6+1 or as Spear
+12
+Long
+2 handed; Special
+
+
+
+
+
+
+
+
+
+
+Missile Weapons:
+
+
+
+
+
+
+
+
+Thrown Rock
+1d6-4
+-
+
+
+Thrown
+Sling
+1d6-2
+-
+
+
+
+
+Short Bow
+1d6-1
+9
+
+
+2-handed
+Horseman's Bow
+1d6
+10
+
+
+2-handed
+Longbow
+1d6+2
+11
+
+
+2-handed
+Light Crossbow
+2d6
+12
+
+
+2-handed
+Heavy Crossbow
+3d6
+15
+
+
+2-handed
+
+
+
+
+
+
+
+
+
+
+Other Weapons
+
+
+
+
+
+
+
+
+Quarterstaff
+1d6+2
+11
+Medium
+
+
+Net
+1d6-3
+10
+
+
+Thrown
+Cestus
+(See Notes)
+-
+Short
+Damage based on STR
+Whip
+1d6-1
+8
+Long
+
+
+Lasso
+(See Notes)
+8
+
+
+Thrown
+Fighting Boomerang
+2d6
+11
+
+
+Thrown
+Nunchaku
+1d6+1
+8
+Medium
+
+
+Spear Thrower
++2 to thrown spear
+(See Notes)
+
+
+STR Minimum is STR for spear thrown
+Blowgun
+Poison
+-
+
+
+
+
+Dart
+Poison
+-
+
+
+
+
+Burning Torch
+(See Notes)
+-
+Medium
+See below under Fire Damage
+Improvised Weapon
+(See Notes)
+
+
+Short/Medium
+See below under Improvised Weapon
+Wizard's Staff
+1d6
+-
+Medium
+See below under Wizard's Staff
+Flask of Oil
+(See Notes)
+
+
+
+
+See below under Fire Damage
+Poison Gas
+(See Notes)
+
+
+
+
+See below under Poisons
+Bola
+(See Notes)
+
+
+
+
+See below under Bola
+Shuriken
+1d6-2
+
+
+
+
+Thrown.  See below under Shuriken
+Arquebus
+3d6+3
+
+
+
+
+See below under Firearms
+Flintlock Pistol
+1d6+2
+
+
+
+
+See below under Firearms
+Grenade
+(See Notes)
+
+
+
+
+See below under Firearms
+Petard
+(See Notes)
+
+
+
+
+See below under Firearms
+Gunpowder Bomb
+(See Notes)
+
+
+
+
+See below under Firearms
+
+
+
+
+
+Legend
+
+Weapon Name - this refers to the name of the weapon.
+Damage - the number of dice rolled to determine the weapon's damage
+STR Min. - the minimum STR required to wield the weapon effectively; see below under Strength Minimum. 
+
+Strength Minimum:  This refers to the minimum Strength necessary in order to use the weapon.  A weapon may be used by a character with less STR, but he is at -1 to hit for every 1 STR less, and at -1 to damage for every 2 STR less.  A character with more Strength can do more damage, at +1 for every 2 STR higher, with a corresponding -1 to hit, up to a maximum of +3 damage.
+
+Weapon Length:  Long weapons can attack an opponent up to two hexes away; Medium weapons can attack into the next hex; Short weapons can only attack in the same hex in hand-to-hand combat or into the next hex at a -1 penalty. 
+
+Thrown Weapons:  A thrown weapon may be thrown by a character with the Thrown Weapons Skill, or with the weapon-specific Skill.  Thrown weapons take a penalty of -1 to hit for every hex between the attacker and the target.  A thrown weapon that misses its target might hit someone else; see below under Attacking Into Melee for more information.  A thrown spell is treated identically, except that it has no chance of hitting another target if it misses its intended; it dissipates harmlessly in that case.
+
+Missile Weapons:  A missile weapon takes a -1 penalty for every two multihexes (or, six hexes) between the attacker and the target.  There is no penalty against targets in the same multihex or up to two away, -1 for 3 to 4 multihexes, -2 for 5 to 6, etc. 
+
+Two-Handed Weapons:  Two-handed weapons require both hands.  A shield must be either slung on the back or dropped in order to use a two-handed weapon.
+
+Pole Arms:  If a Charge and Attack action is used with a Pole Arm, and the last three hexes of the attacker's movement are in a straight line (no facing changes), the attack does double damage.  If a character with a Pole Arm is attacked by someone Charging, and he sets the Pole Arm to meet the charge, he gets +2 to his Effective Dexterity to hit the Charger, and does double damage. 
+
+Attacking Into Melee:  If the path taken by a thrown or missile weapon passes through any hexes occupied by other characters, or into a hand-to-hand brawl in a single hex, the attack takes a -1 penalty for each character.  If the attack misses its primary target, it could hit any of those other characters.  Roll an Effective Dexterity Check for each character in the path, starting with the one closest to the attacker, at standard penalties for ranged combat; a successful check means the attack misses its unintended targets.  When attacking into a brawl, choose the order in which characters are targeted randomly. 
+
+Fire Damage:  Fire damage is based on the size of the fire and the amount of exposure to it.  Generally, a weapon that is on fire does +2 damage; a burning torch is treated as if it were a club that is on fire.  Realistically, a flaming weapon probably won't set the target on fire; if the target is highly flammable (doused in gasoline or the like) the chance is 50/50 on a successful hit.  (Even for things like newspaper, one normally needs to apply the flame for a few seconds to get it to burn; see for yourself the next time you start a fire.) 
+
+For a target on fire: 
+
+One limb only (such as the arm):  1d6-4 per Turn, until it's put out
+Half the body:  1d6-2 per Turn, until it's put out
+Whole body:  1d6 per Turn, until it's put out. 
+
+Stop, drop, and roll can put out a fire in one Turn; the character takes one full Turn of burning unless someone is helping.  Running while on fire fans the flames; one Turn of running turns one burning limb into a half-body burn, and a half-body burn into a full body burn; running while burning increases whole body damage by +2 per Turn.  The character must succeed on an Intelligence Check to avoid running (3d6 for one limb, 4d6 for half body, 5d6 for whole body); attempting to stop running while already doing so is at +1 die. 
+
+A character moving through a burning hex takes 1d6-4 damage, +2 per additional hex moved through.  A character who stops in a burning hex takes 1d6-2 damage.  A character who, for some reason, stays put in a burning hex, takes 1d6 damage per turn he stays there.  If the fire has burned down to hot coals, add +1d6 to the damage (note that a hex that has just caught on fire, because of a spell or other reason, probably is not at the hot coals stage).  A character must succeed on a 3d6 Intelligence Check to move into or stay in a burning hex.
+
+Armor protects against all, some, or none of this damage, depending on the circumstances.  Against burning attacks such as a torch, flaming arrow, or fireball, armor provides its full value.  If the character is immolated, or is inside a hex of fire (via the spell, being inside a burning building, etc.), any non-fireproofed, medieval7-type armor protects with half its value.  If the character is wearing armor and is dunked or soaked in gasoline or some other flammable liquid that runs inside the armor and coats the character, armor won't protect against this. 
+
+Firearms:  This includes guns (both early and modern) and various kinds of bombs (grenades and the like). 
+
+Shield Rush, Slams, and Throws:  These attacks all work similarly.  A slam is just running into someone with a shoulder or body mass, while a shield rush is the same thing only leading with the shield.  In a throw, the attacker actually grabs a target and tosses him.  In all cases, the attacker must make a successful attack roll.  The target then rolls a 3 die Strength Check (based on his unwounded Strength); if he fails this check, he is down on the ground.  (A Martial Arts throw may substitute a Dexterity Check for a Strength Check.)  If the target is stronger than the attacker, he receives a bonus to his Strength Check equal to the difference; if weaker, he receives a penalty equal to the difference. 
+Armor:
+Each type of armor is rated with a defense value.  Any time a character is hit in combat, subtract the armor's defense value from the amount of damage rolled.  The result is the amount of damage the character takes.  (If using the Optional Nonlethal Damage Rules, damage stopped is Lethal damage first.  Cloth/Padded Armor stops 1 Lethal and 2 Nonlethal, and is assumed to be worn under all other armor types; all armor types thus stop 2 Nonlethal damage in addition to their full Lethal value.) 
+
+A shield can be used to block attacks.  A shield held in the "ready" position protects against attacks from the character's front zone (the three front hexes), while a shield slung on the back protects against attacks from behind only (the hex directly behind the character). 
+
+A dagger held in the left hand can be used to parry or block attacks as well. 
+
+Besides providing defense, armor is also heavy and binding, and reduces both a character's ability to move and his Effective Dexterity score.  (If using the Optional Movement Rules, the Dexterity penalty determines the movement reduction.) 
+
+Armor
+Type:
+Defense
+Value:
+DEX
+Penalty
+Weight
+(kg)
+Movement
+Penalty
+Notes
+Fine Plate
+6
+-2
+25
+-4
+
+
+Plate Armor
+5
+-3
+25
+-4
+
+
+Half Plate
+4
+-2
+20
+-4
+
+
+Chainmail
+3
+-1
+15
+-3
+
+
+Leather
+2
+-1
+8
+-2
+
+
+Padded
+(Cloth)
+1
+-0
+7
+-0
+
+
+Tower
+Shield
+3
+-1
+15
+-
+
+
+Large
+Shield
+2
+0
+10
+-
+
+
+Small
+Shield
+1
+0
+5
+
+
+
+
+Spiked
+Buckler
+1
+0
+6
+
+
+1d6-2 damage if used as a weapon.
+Full Backpack
+1
+-1 or -2
+Contents
+
+
+Stops 1 hit from behind, prevents shield from being slung on back
+Main Gauche or Dagger
+1
+0
+
+
+
+
+See notes for Main Gauche
+
+
+
+
+
+
+
+
+
+
+
+
+
+Encumbrance:
+Encumbrance can reduce a character's Effective Dexterity as well as his movement.  Penalties to Effective Dexterity are cumulative with the type of armor worn; movement penalties are not.  (If using the Optional Advanced Movement Rules, movement loss does accumulate based on Dexterity penalties as well.) 
+
+Amount Carried
+Effects
+0-2x STR in kg
+None.  No penalties; full swimming movement allowed.
+2-3x STR in kg
+-2 to Movement
+3-4x STR in kg
+-4 to Movement.  -1 to Effective Dexterity
+4-5x STR in kg
+-6 to Movement.  -2 to Effective Dexterity
+5-7x STR in kg
+-6 to Movement.  -1 STR every 2 minutes (nonlethal/fatigue).  Max of 10 minutes.
+STR squared in kg
+Maximum lift.  Character can move 1 hex with 4d6 Effective Strength check, otherwise no movement allowed.
+
+Magic
+As mentioned previously, a character is either a Warrior or a Wizard.  A Wizard can learn a number of spells equal to his INT, not unlike Skills for Warriors; his disadvantage is that all Skills cost a Wizard double the number of Skill slots to learn (with certain exceptions noted in the Skill descriptions).  Warriors may learn spells; a spell counts as a Skill for that character and takes three Skill slots.  The INT minimum is as normal, though.
+
+There are four basic types and three subtypes of spells.  The main types are Creation, Missile, Thrown, Spells, and Special, while the subtypes are Control, Detection, and Illusions/Images, and Summoning.  These are described as follows:
+
+Creation:  A Creation Spell either creates an object or substance, whether real or illusory, or summons a creature.  Creation spells have a limited range, that being in the caster's multihex plus each of the multihexes that touches it, and those hexes must be within the caster's line of sight (exception: a wizard can cast a Creation into an area under Shadow).  The caster can see through the eyes of his Creations (Illusions, Images, and Summoned creatures), if they have eyes.  Creations are under the mental control of their caster, and will never try to break this control.  A Creation must appear in an empty hex (the exceptions are Rope, Fire, and Shadow; these can appear in occupied hexes, and Creations can appear in hexes occupied by them).  A Created creature of any kind (again, whether Illusion, Image, or Summoned) suffers from "creation sickness" and cannot move or fight during the Turn in which it was created; after that Turn it can do everything normally. 
+
+Images and Illusions:  Both Images and Illusions are magical phantasms, the unreal made real by magic.  Like all Creations, both are under the mental control of their caster, and the caster can see through the eyes of Images and Illusions.  Creatures of both Image and Illusion need character sheets (in part so that the lack of one is not a tipoff to other players that the construct is one of these!).  Like all Creations, an Image or Illusionary creature suffers from "creation sickness". 
+
+Images must be of a single, simple object; this can be a living creature, shadow, wall, etc., but must be one object (for instance, a 7-hex Image cannot be an Image of seven creatures).  Images are effectively holograms having full sensory components -- sight, sound, and smell at the minimum.  An Image can never do damage, though it acts fully under the caster's mental control, and disappears if it is touched or hit, or if it touches or hits anything (in combat or not).  Two Images cause each other to disappear; an Illusion causes an Image to disappear, but does not itself disappear.  Attempting to move through an Image also causes it to disappear, but if it turns out not to be an image, the moving character stops in the hex right next to the target, and must make a 4d6 Dexterity Check to avoid falling over (the target must itself make a 3d6 Dexterity Check or fall).  If a Missile spell or ranged weapon hits an Image, the Image disappears, and the spell or weapon continues unchecked. 
+
+Illusions, like images, are under the mental control of the caster, but being fully mental constructs, can harm and even kill targets who believe in them.  An illusion of a living creature acts exactly as the creature, and might have its own character sheet.  An Illusion may be disbelieved by an intelligent (sapient) creature; humans, humanoids, and dragons may attempt to disbelieve.  The caster (secretly, in a player vs. player game, or if the caster is an NPC the GM rolls secretly; openly in a game with a GM) rolls a 3d6 Intelligence Check for the character attempting to disbelieve.  If successful (and the Illusion was in fact an Illusion) the Illusion disappears.  If not, or if it was not an Illusion (and the caster should not let on one way or the other), it stays. 
+
+An Illusion must always be of something that exists somewhere.  An illusion of a real person has a 32-point character sheet written up for it (it can be higher if it is of someone the target knows; in that case it has the stats the target knows it to have).  It generally follows natural law and acts in accordance with reality; for instance, an Illusionary character will be burned by fire (whether real or Illusionary).  The caster himself must believe, at least in part, in an Illusion he is casting, otherwise the Illusion fails; for this reason, Illusions of obviously imaginary creatures are not permitted. 
+
+An Illusion has no physical reality, but upon being touched it doesn't disappear.  Instead, characters touching, or otherwise falling afoul, of Illusionary features will, to the extent they are able, act as if they are real.  For instance, a character falling into an Illusionary pit will fall down, as will a character who runs headlong into an Illusionary wall.  Illusionary attacks affect targets exactly as their real counterparts, because of the Illusion being in the mind.  Illusionary damage can kill a character, and the character is permanently (not Illusionarily) dead.  After the Illusion is disbelieved, or ends in such a way as the victim knows it was an Illusion, any Illusionary damage taken recovers at the same rate as fatigue/nonlethal damage (though it is still considered lethal; the victim can still die by taking Illusionary plus real damage in excess of his Strength). 
+
+Summoning:  Summoned creatures are brought in from elsewhere to serve the caster.  Like other Creations, the caster may see through the eyes of a Summoned being, and such a creature is under his mental control.  A Summoned creature disappears immediately (returning to its place of origin) when it is killed, when its Summoner is killed or goes unconscious (at the end of a turn; this is an exception to the general rule that Creations always disappear immediately), when dismissed by its Summoner, or when the Summoner fails to perform required upkeep on the spell.  Summoned creatures can never cast spells of their own, nor can they attempt to disbelieve illusions.  A Summoned being subject to a Control spell acts in all respects as if the caster of the Control spell were the one who Summoned it; that character now spends upkeep to maintain the Summoning, and otherwise fully controls the creature. 
+
+Missile:  A Missile Spell attacks a target with a projectile of some kind; the projectile moves to the target either magically or under its own power. 
+
+Thrown:  A Thrown Spell, as the name implies, is a projectile that is actually physically thrown by the Wizard; it otherwise does not reach the target.  The wizard may always target himself with a Thrown spell. 
+
+Special: Special Spells are anything that is not one of these three. 
+
+Control:  Control spells are a subtype of Thrown spells, and allow the caster to take control of an animal or humanoid.  On a successful casting, the victim receives a 3d6 Intelligence Check to avoid being controlled; if he succeeds, the caster loses 1 Strength, and if he fails, the caster takes control, treating the victim as if he were a Summoned creature.  (Summoned creatures under Control act in all respects as if the Controller had cast the original Summon, including requiring him to pay the STR Cost to maintain, and the fact that the creature disappears when the spell ends; for other creatures, when the Control ends, the spell dissipates and the victim doesn't remember being controlled.) 
+
+Detection:  For all Detection type spells (usually a subtype of Special or Thrown), the GM rolls an Intelligence Check for the caster, without revealing the dice result.  On a successful roll, the GM tells the player the truth about what the spell detects; on a failure he lies (by generating either a false positive or a false negative).  
+Casting a spell:
+In general, out of combat a character can cast spells at will.  During combat, in a Combat Turn a character can move up to one hex and cast a spell, whether that movement is a Step (while Disengaged) or a Shift (while Engaged). 
+Spellcasting and Damage:
+All spells have a Strength cost; when the character casts the spell, he loses that much Strength.  A character can fall unconscious or even die as a result of casting too many spells!  (See also the Optional Nonlethal Damage Rule, above.)
+Spell Stat Block:
+Name:  This is the name of the spell
+Type:  Creation/Summoning, Missile, Thrown, or Special
+STR Cost:  This is how much it costs to cast the spell.  STR Cost listed in the form "X + Y per Turn" means it costs X to cast and Y to keep the spell going for one Turn.  (This is the Spell Upkeep listed as phase 2 of combat.)
+Duration: This is the spell's duration in Turns.  A spell that lists both a Duration and a STR Cost per some time frame has a base duration equal to that listed, and an additional cost for upkeep beyond that.  (Spells with an upkeep or maintenance cost but no duration listed are assumed to last for 1 Turn.) 
+The Spell List:
+Min. INT 8:
+Blur
+Type: Thrown
+STR Cost:  1 + 1 per Turn to maintain
+
+Blur makes it harder for others to see, hear, smell, etc. the target of the spell.  (It's Thrown, so it is applied to a target, which can include the caster.)  All attacks against the target are at a -4 penalty; any Perception Checks against the target of the spell are at -4 as well. 
+
+Detect Magic
+Type: Thrown (Detection)
+STR Cost:  1
+
+Detect Magic can tell whether a target is magical, though it can't identify any spells.  The GM secretly makes an Effective Dexterity check for the caster; if he fails, the caster detects no magic, whether the target is magical or not. 
+
+Drop Weapon
+Type: Thrown
+STR Cost:  1, or 2 if target's full STR is 20 or greater
+
+The target drops whatever he is carrying in one hand.  Does not affect rings, amulets, or other jewelry, only things held in the hand.  Does not affect objects with Immunity to this spell. 
+
+Image
+Type:  Creation
+STR Cost:  1
+Duration: 1 minute
+
+Image creates a one-hex image (see Images and Illusions for more details). 
+
+Light
+Type:  Thrown
+STR Cost: 1
+Duration:  1 day
+
+Light causes a small object (fist sized or smaller) to glow, casting approximately as much light as a torch.  The caster can choose the color.  The caster may, if he wishes, end the spell before its duration ends, but must cast the spell again for more light. 
+
+Magic Fist
+Type: Missile
+STR Cost:  *
+
+Magic Fist creates a telekinetic fist in the air that can be used to attack with; the fist does 1d6-2 damage for every point of STR spent on casting it.  It can otherwise be used as if it were a fist, anywhere within the wizard's line of sight.  A Magic Fist that does 6 or more points of damage to before armor can trip the target, who gets a 3d6 Strength or Dexterity Check to avoid this. 
+
+Slow Movement
+Type: Thrown
+STR Cost:  2
+Duration:  4 Turns
+
+Slow Movement halves a target's Movement for 4 Turns.  Multiple castings of Slow Movement increase the spell's duration, but don't halve movement again. 
+
+Staff
+Type:  Special
+STR Cost:  5
+
+The Staff spell turns any piece of wood into a Wizard's Staff.  A wizard who knows the Staff spell may automatically begin the game with a staff if he wishes, without paying any Strength to cast it (it's assumed he has cast it before beginning play, and recovering between then and now).  A staff never prevents a wizard from casting a spell, and even though it is considered a weapon he need not drop it in order to cast spells.  A staff is affected by Drop Weapon, Break Weapon, and other spells that affect weapons or wood.  If someone other than its owner touches a Wizard's Staff, it explodes, doing 3d6 damage to whoever touched it. 
+Min. INT 9:
+Aid
+Type: Thrown
+STR Cost: *
+Duration:  2 Turns
+
+Aid adds 1 to the target's STR, DEX, or INT for every 1 STR used in the casting.  (The target can be the caster himself.)  If the Aided Attribute is Strength, any Strength not used for casting spells or taken in wounds disappears after 2 Turns. 
+
+Avert
+Type: Thrown
+STR Cost:  2 + 1 per Turn
+
+Avert causes the target to move a minimum of 2 hexes away from the caster for every Turn the spell is active.  If the victim is unable to move because of an obstacle of some kind, he must succeed at a 3d6 Effective Dexterity check or fall down.  The victim will, if necessary, disengage from combat to continue to move away.  The target can move closer to the caster during the Turn, but must end the Turn at least two hexes further than his closest point. 
+
+Clumsiness
+Type: Thrown
+STR Cost:  *
+Duration:  3 Turns (1 if target's STR is 30 or greater)
+
+Clumsiness reduces the target's Effective Dexterity by 2 for every 1 STR used in its casting. 
+
+Confusion
+Type: Thrown
+STR Cost: *
+Duration:  3 Turns
+
+Confusion reduces the target's Effective Intelligence by 2 for every 1 STR used in its casting.  The target can't use any spells or Skills that have a minimum INT requirement greater than his Effective Intelligence, but he can maintain any spells he has already cast. 
+
+Dark Vision
+Type: Thrown
+STR Cost:  3
+Duration: 1 hour
+
+The target of Dark Vision can see in any level of darkness up to total (except for magical darkness and the like), at no penalty, until the spell ends.  The spell does not permit vision through or inside a hex under the Shadow spell.
+
+Darkness
+Type:  Special
+STR Cost:  1 per multihex distance + 1 per Turn past base duration
+Duration:  3 Turns and up
+
+Darkness darkens any light sources within range of the caster, though none outside of that (so it is next to useless outdoors during the daytime, for instance).  The spell can affect any or all light sources within the area, at the caster's choice.  It affects light only; heat, combustion, fuel or energy consumption, etc. remain unaffected, though any heat generated as a direct consequence of the light is (if the spell is cast to affect a laser, for instance, the laser would cease to function for the spell's duration).  Any light-creating spells in the area continue as well, though they generate no light while Darkness is active.  The Strength cost to cast Darkness is 1 per multihex of range, plus one per Turn duration above 3; if a Wizard spent 4 Strength on a casting of Darkness, he could cast it to affect 3 multihexes of distance and one Turn past 3 Turns, for 4 Turns. 
+
+Detect Life
+Type: Special (Detection)
+STR Cost:  2 + 1 per additional multihex
+
+Detect Life reveals to the caster any life forms within the spell's range.  It can be used in two modes: area and directional.  Used in an area, it shows all life forms (including plants but not including microbial life or small insects) within 2 multihexes of the caster's multihex (+1 per additional Strength spent).  Used directionally, the spell can focus on a single multihex or even a single hex; in this case, the cost is 2 for up to 2 multihexes range, +1 per additional multihex.  The caster may, if he wishes, also focus the spell on a single type of life form.  As with Detect Magic, the GM rolls for the caster and reveals the results only on a successful check. 
+
+Fire
+Type: Creation
+STR Cost: 1 + 1 per Turn
+
+Fire creates a fire, of any size up to one full hex; the wizard can use this for any purpose from lighting a torch or pipe to filling an entire hex with burning doom.  The magical fire lasts as long as it is maintained; once it is no longer maintained, its continued duration is based on factors including available oxygen, fuel, etc. though it doesn't consume these things while it is being maintained.  Lasts for a minimum of one full Turn after it is no longer maintained. 
+
+Reveal Magic
+Type: Special
+STR Cost:  1 + 1 per Turn
+
+Reveal Magic reveals any secret protection spells or magic items actively in use and in line of sight within 5 multihexes of the caster.  Also reveals the presence of any spells cast on an area, such as Slippery Floors or Sticky Floors.  The spell does not differentiate between the spells; it won't tell the caster which spell is which, only that there is a spell there. 
+
+Summon Wolf
+Type:  Creation
+STR Cost:  2 + 1 per Turn
+
+Summon Wolf causes a wolf to appear.  (See Bestiary section for Wolf stats; see Summoned Creatures section for more details on summoning.)
+Min. INT 10:
+Damage Shield
+Type: Thrown
+STR Cost:  2 + 1 per Turn
+
+Damage Shield is thrown at a target (which can be the caster).  All other creatures in the target's hex take 1d6 damage at the end of each turn the spell continues; this damage is not stopped by armor or shields. 
+
+Dazzle
+Type: Special
+STR Cost:  3
+
+Dazzle causes a psychic flash effect against all sighted creatures within 5 multihexes of the Wizard's multihex (but not the Wizard himself nor anyone inside that radius).  The spell affects all creatures that can see, including Summoned creatures, Images, and Illusions.  All flashed creatures are at -3 to Effective Dexterity for 3 Turns. 
+
+Detect Enemies
+Type: Special (Detection)
+STR Cost: 3 + 2 per additional multihex distance
+
+Works exactly as Detect Life except that it detects only creatures with hostile intent toward the caster, though it does not provide details of the creature's intent.  It can also detect magical traps and other hostile spells placed on an area (though it does not detect the Ward spell).  Costs 3 Strength to detect any enemies within 2 multihexes of the caster's multihex, plus 2 Strength per additional multihex. 
+
+Far Sight
+Type: Thrown
+STR Cost:  1
+Duration: 5 minutes
+
+The target of Far Sight can see a hundred times farther than normal; divide the distance between him and whatever he is trying to see by 100 for all visual perception purposes except direct combat. 
+
+Haste
+Type: Thrown
+STR Cost:  2
+Duration: 4 Turns
+
+Haste doubles the target's base Movement for up to 4 Turns, before adjustments for armor and the like.  Casting the spell again increases the duration rather than doubling movement again. 
+
+Hide the Trail
+Type: Special
+STR Cost: 4
+Duration: 1 day, or until ended by the caster/the caster's death
+
+Placed on an area (a crossroads, fork, or intersection up to one multihex in area or seven hexes in length), Hide the Trail causes anyone attempting to follow a trail through it to take the wrong path.  Trackers get a 4d6 Intelligence Check to avoid the spell, though they still need to successfully track their quarry.  Anyone passing through an area with this spell on it for a second or subsequent time has a 50% chance of being affected by it again.  The caster and anyone with him are unaffected by this spell.  It does not protect anyone who is within direct sight of the tracker(s)!
+
+Lock/Unlock
+Type: Thrown
+STR Cost: 2
+
+The Lock/Unlock spell can be used to either lock a door so it can't be unlocked normally, or to unlock any single lock including one that has been locked with the Lock spell.  The Unlock spell will either unlock one single lock or will negate one use of the Lock spell.  The door must be physically capable of opening in order for Unlock to open it.  A lock that has been locked with the Lock spell can still be picked; each application of the Lock spell adds one die to the Dexterity Check required to pick the lock (or one die to the Strength Check required to break it down!).
+
+Shadow
+Type: Creation
+STR Cost: 1
+Duration: 1 minute
+
+Shadow creates a 1-multihex sphere of complete darkness.  This is normally centered on a ground hex, making a hemisphere 2 hexes high in the center, but can be centered anywhere within the wizard's line of sight; once created it doesn't move, even in the air.  Attacks by characters inside a Shadow, or made through one, are at a -6 penalty; attacks against targets inside are at -4. 
+
+Summon Myrmidon
+Type: Creation
+STR Cost:  2 + 1 per additional Turn
+
+A myrmidon appears.  (See Bestiary section for Myrmidon stats; see Summoned Creatures section for more details on summoning.)
+
+Trip
+Type: Thrown
+STR Cost: 2, or 4 if target has 30+ STR
+
+The target falls over.  The spell does no damage directly, but if the target is next to a pit, cliff, etc., he must make a 4d6 Dexterity Check to avoid falling in. 
+
+Ward
+Type: Special
+STR Cost:  2
+Duration: 1 day
+
+Placed on an area (up to one multihex or seven hexes in length), Ward will alert the caster (even if asleep or otherwise occupied) if any creature enters or passes through the Warded area.  The caster will know the creature's general intent as well.  The spell ends if the wizard moves more than 15 hexes away from the Warded area; the caster can cast as many Ward spells as he has STR to cast. 
+Min. INT 11:
+Control Animal
+Type: Thrown
+STR Cost:  2 + 1 per Turn
+
+The wizard takes control of one normal animal, including summoned animals (but not images or illusions).  The animal makes a 3d6 Intelligence Check to avoid its effects when the spell is first cast. 
+
+Create Wall
+Type: Creation
+STR Cost:  2
+Duration: 1 minute
+
+Create Wall creates one hex worth of wall.  If it is cast in a hex next to where a wall was already created, it will join that wall, creating whatever junction is necessary to attach.  The general look and feel of the wall is up to the caster, but all Created Walls are made out of the same material.  Create Wall can't be used to entomb another character by creating the wall in his hex; a Create Wall cast at an occupied hex fails. 
+
+Destroy Creation
+Type: Thrown
+STR Cost:  1
+
+Destroy Creation destroys 1 hex worth of created object.  It does not affect living (summoned) beings, nor images or illusions of living creatures greater than 1 hex.  If cast at any other created object of 1 hex or smaller, the object disappears; if cast at a created object larger than 1 hex, then only 1 hex of the object disappears. 
+
+Illusion
+Type: Creation
+STR Cost:  2
+Duration: 1 minute
+
+Creates an illusion of anything, chosen by the caster; the illusion may be up to 1 hex in size.  (See Images and Illusions for more information.) 
+
+Persuasiveness
+Type: Thrown
+STR Cost:  2 + 1 per Minute
+Duration: 1 minute
+
+For the duration of the spell, the subject of Persuasiveness rolls one fewer die on any tasks regarding persuading another character to do something.  He also gets +2 on any reaction rolls. 
+
+Reveal/Conceal:
+
+Coming soon.
+
+Reverse Missiles
+Type: Thrown
+STR Cost:  2 + 1 per Turn
+
+This spell causes any missiles fired at its target to reverse and hit the character who fired them.  The attacker rolls to hit the character with this spell; if the hit is successful, the missile automatically his the attacker.  It affects missile spells and thrown and missile weapons (but not thrown spells).  Reverse Missiles can be cast secretly (see Secret Spells for more details). 
+
+Rope
+Type: Creation
+STR Cost:  2
+Duration: Until removed (see description)
+
+Rope creates a writhing, entangling rope.  Upon successful casting, the rope entangles its victim, reducing his Effective Dexterity by 2 plus an additional 1 per Turn (making it -3 on the second Turn, -4 on the third, etc.).      The victim (or anyone else) can remove the rope by doing nothing else, then making a 3d6 Effective Dexterity Check.  If successful, the rope disappears and the spell ends (all penalties go away as well).  A character whose Dexterity is reduced to 2 or lower by this spell falls down and can do nothing at all, not even remove the rope.  This spell does not affect creatures with 20 or more normal Strength (see also the Giant Rope spell). 
+
+Silent Movement
+Type: Thrown
+STR Cost:  1 + 1 per Turn
+
+The target of the spell moves completely silently.  Only prevents direct sounds related to movement -- it stops footsteps, but also the jingling of armor, weapons, or coins, the sounds of bumping into walls or other large objects, etc.  It does not stop noises or sounds made deliberately by the target unrelated to movement; characters can talk or make other sounds. 
+
+Sleep
+Type: Thrown
+STR Cost: 3
+
+Puts the target to sleep.  This is in all respects normal sleep, and the target will awaken normally after several hours unless awoken first.  A target who is standing when hit with Sleep will fall down.  Does not work on characters who normally have 20 STR or more.
+
+Staff to Snake
+Type: Thrown
+STR Cost: 3
+Duration: 6 Turns
+
+The Wizard's Staff turns into a snake (see Bestiary for staff snake stats).  It acts as if it were a summoned snake (see Summoned Beings).  It can move and/or fight immediately after it appears.  If killed, the snake reverts immediately to a staff, though broken.  Recasting the spell before the duration ends causes the staff to remain a snake for another six turns without reverting. 
+
+Summon Bear
+Type: Creation
+STR Cost: 4 + 1 per Turn
+
+Summons a bear.  (See the Bestiary section for bear stats; see the section on Summoning for more info as well.)
+Min. INT 12:
+3-Hex Fire
+Type: Creation
+STR Cost:  2
+
+Creates up to 3 connected hexes of fire (see the Fire spell and the Fire Damage section for more details). 
+
+3-Hex Shadow
+Type: Creation
+STR Cost:  2
+
+Creates up to 3 connected hexes of shadow (see the Shadow spell for more details).  
+
+Analyze Magic
+Type: Special (Detection)
+STR Cost:  4
+
+Tells the character about exactly one spell cast on an object.  Each casting tells the character about one spell, from lowest INT to highest.  The caster may specify specify the type of spell (such as beneficial, harmful, thrown, creation, etc.), and Analyze Magic will tell the character about such spells if they are present, but will do nothing otherwise.  The GM rolls a 3d6 Intelligence Check for the caster without revealing the result; if successful, the GM truthfully explains the spell.  If not, the GM lies. 
+
+Blast
+Type:  Special
+STR Cost:  2
+
+Every creature, friend or foe, in the wizard's hex, or in any hex adjacent to the wizard, takes 1d6 damage. 
+
+Break Weapon
+Type: Thrown
+STR Cost:  3
+
+Cast at another character, one weapon (including a shield or wizard's staff) in that character's hand breaks.  Does not affect magical items created with Immunity to Breakage.  A broken weapon does half damage, rounded down, while a broken wizard's staff is useless.
+
+Drain Strength
+Type:  Special
+STR Cost:  0 (see description)
+
+Drain Strength drains a target's life force into the caster.  The target must either be willing or under the wizard's control (tied up, under a Control spell, or otherwise under duress).  For every 5 full Strength drained from the target, the wizard regains 1; all damage both done and regained is nonlethal (fatigue or exhaustion, including due to spellcasting, or any nonlethal damage if using the Optional Nonlethal Damage rules).  The spell will never kill a target, and will only drain in increments of 5 Strength, never fractions thereof.  It also only drains from one single target, always. 
+
+Eyes Behind
+Type:  Thrown
+STR Cost:  3 + 1 per Turn
+
+The character can see into side hexes (the two hexes behind to the left and right of him) as if they were front hexes, and into his rear hex (directly behind him) as if it were a side hex. 
+
+Fireball
+Type:  Missile
+STR Cost:  1 per 1d6-1 damage
+
+Does 1d6-1 fire damage to the target for every 1 Strength spent.  See the Fire Damage section for more details. 
+
+Freeze
+Type: Thrown
+STR Cost:  4
+Duration:  2d6 Turns
+
+The victim cannot move or take any voluntary actions for the duration of the spell (but can see and hear, disbelieve illusions, or take any other actions that require no movement to achieve).  He is completely frozen in place.  Does not affect creatures with 30 STR or more. 
+
+Invisibility
+Type: Thrown
+STR Cost:  3 + 1 per Turn
+
+The target of the spell becomes invisible and cannot be seen.  Remove his figure or counter from the map, and all of his movement becomes hidden (see Hidden Movement) until the spell ends.  Any attacks against him are at -6, if directed at the correct hex (attacks aimed elsewhere have no effect).  The effects of Invisibility are not cumulative with other sense affecting spells; Invisibility also does not prevent the target from being heard, and is useless in darkness (except against creatures that can see in the dark).  Cast on an illusion or image, Invisibility destroys it. 
+
+Magesight
+Type: Thrown
+STR Cost: 2 + 1 per Turn
+
+The target of the spell can see objects or items under the following spells: Blur, Invisibility, or Shadow (any), or in ordinary darkness. 
+
+Rainstorm
+Type: Creation
+STR Cost: 4
+Duration: 1 minute
+
+Rainstorm creates a 1-multihex rain cloud.  The cloud is under the mental command of the caster and can move at up to 1 hex per Turn.  The rain puts out all fires, magical or not, and prevents Fireballs, lightning, and dragon fire from passing through it.
+
+Repair
+Type: Thrown
+STR Cost: 6
+
+Repair can repair small, simple (defined as having few or no moving parts), broken items, as if they were never broken (in fact it will also repair incidental damage, nicks and scuffs and so on).  Any item up to 2kg in mass can be repaired by use of this spell; multiple wizards working together to cast Repair are additive.  (Two wizards can repair up to 4kg; three can repair up to 6kg; and so on.)  It can repair broken items that are mundane or magical, but never living creatures.  Also note that when a magical item breaks, any spells or enchantments in the item dissipate; after repair, the item is as if it were never broken, but the spell does not replace or restore spells or enchantments.  (A repaired wizard's staff is just a stick, but the Staff spell can be recast on it.)
+Min. INT 13:
+3-hex Wall
+Type: Creation
+STR Cost:  4
+
+Works exactly as the Wall spell, except that it creates three connected hexes of wall. 
+
+4-hex Image
+Type: Creation
+STR Cost:  2
+Duration: 1 Minute
+
+Creates an image of anything up to four connected hexes in size. 
+
+Control Elemental
+Type: Thrown (Control)
+STR Cost: 3 + 1 per Minute (doubled if target is STR 30 or greater)
+
+Control Elemental places any elemental under the mental control of the caster.  (See also the Control Person spell and the Control Spells section for more information.)
+
+Control Person
+Type: Thrown (Control)
+STR Cost: 3 + 1 per Turn
+
+Control Person places any human or humanoid target (either normal or summoned) under the mental control of the caster.  An image or illusion disappears immediately if targeted by this spell.  The target may make a 3d6 Intelligence Check to avoid being controlled, but if he fails he is under the wizard's control.  (See also the Control Spells section for more information.) 
+
+Curse
+Type: Thrown
+STR Cost: *
+Duration: Until removed
+
+Curse affects the target with a curse; the amount of the curse is 1 per 2 STR spent on the spell by the caster.  Every point in the curse is a 1 point penalty on all dice rolls by the target (Attribute Checks, damage rolls, any other rolls).  The penalty always works against the target; for any roll in which the target wants to roll low, the penalty reduces the target number, and for any roll in which the target wants to roll high, the die roll value is reduced.  Lasts until removed or dispelled by an appropriate spell.  A Curse is normally not visible, and the target won't necessarily know he has been cursed; Reveal Magic or Detect Magic can tell that a spell has been cast, and an Analyze Magic will tell that it is the Curse spell.
+
+Fireproof
+Type: Thrown
+STR Cost: 3 + 1 per Turn, per hex of the target's size
+
+The target, and everything he is wearing and carrying, is immune to fire damage. 
+
+Flight
+Type: Thrown
+STR Cost: 3 + 1 per Turn
+
+Flight gives the target the ability to fly with a base flying Movement score of 12 (reduced normally by encumbrance).  Attacks by a flying character without the Flying Skill are at -2 for melee attacks or missile or thrown spells, and -4 for missile attacks and thrown weapons.  Attacks against flying creatures are at -4; this penalty is cumulative with the other penalties, so a missile attack by a flying character against a flying target would be at -8!
+
+Slippery Floor
+Type: Thrown
+STR Cost: 3
+Duration: 1 Minute
+
+Slippery Floor turns one multihex worth of floor slippery.  Anyone in the area must make an Effective Dexterity check to avoid falling (3d6 if standing still; 4d6 if moving).  It takes a 3d6 Effective Dexterity Check to even stand up in a slippery hex.  A character may crawl out without having to roll, though.  Images and illusions are affected by Slippery Floor. 
+
+Sticky Floor
+Type: Thrown
+STR Cost:  3
+Duration: 1 Minute
+
+Sticky Floor turns one multihex worth of floor sticky.  Anyone who moves into the sticky area must stop immediately; further movement through the sticky area is at a Movement rate of 1 (or 2 for characters with 30 or more normal Strength).  A Sticky Floor cast on an area of Slippery Floor will fail, and vice versa.  Images and illusions are affected by Sticky Floor. 
+
+Stone Flesh
+Type: Thrown
+STR Cost:  2 + 1 per Turn
+
+The target of the Stone Flesh spell has 4 natural defense against all attacks.  This defense is cumulative with all armor or other magical defense the character has, with the exception of another Stone Flesh or an Iron Flesh spell.  Stone Flesh is not obvious; Reveal Magic will reveal the spell, as will simply hitting the character with a weapon (on a successful 3d6 Intelligence Check). 
+
+Stop
+Type: Thrown
+STR Cost:  3
+Duration: 4 Turns
+
+The target's Movement is reduced to 0 for the duration of the spell.  He can do anything else, except move. 
+
+Summon Gargoyle
+Type: Creation
+STR Cost:  4 + 1 per Turn gargoyle remains
+
+Summons a gargoyle.  (See Bestiary for Gargoyle stats; see Summoning section for details on summoned creatures.) 
+
+Telekinesis
+Type: Thrown
+STR Cost:  2 per Turn
+
+Allows the caster to move objects with his mind.  The spell is capable of affecting anything the caster can see or touch.  The telekinesis point can "float" or fly anywhere within line of sight.   The wizard can use weapons via Telekinesis, but needs to have the weapon skill to use them effectively; all telekinetic weapon use is at an additional -4 penalty. 
+
+Tunnel
+Type: Thrown
+STR Cost:  10
+Duration: Permanent
+
+Tunnel turns one hex of rock or other material into air.  The spell can, if the caster wishes, affect smaller area, and the caster can also control the shape of the tunnel.  (The spell can, if the caster wishes, be used to shape, cut, or (with the appropriate Skill) sculpt stone; the total volume of material removed is up to one full hex.) 
+
+The spell can be used on a living being to cause part or all of the creature's flesh to disappear; this will kill all creatures of 1 hex in size, and most larger creatures with one hex taken out of them will also die.  The victim gets a 4d6 Dexterity Check to avoid this fate, and even then can partially avoid it; the amount of damage taken by the target depends on the degree to which he missed the roll (missing by 5 or more results in instant death).  A target that has been affected by the Freeze spell cannot resist!  GMs may wish to control the use of this spell, especially in conjunction with Freeze or other similar spells. 
+Min. INT 14:
+4-hex Illusion
+Type: Creation (Illusion)
+STR Cost: 3
+
+Creates an illusion up to 4 hexes in size.  (See Images and Illusions for more information.) 
+
+Dispel Illusion
+Type: Special
+STR Cost:  5
+
+Dispels all Illusion spells within 5 multihexes of the caster, including the caster's own, regardless of size. 
+
+Fresh Air
+Type: Thrown
+STR Cost: 2 + 1 per Minute
+
+The target of Fresh Air can breathe normally despite any circumstances that would dictate otherwise -- being underwater, surrounded by smoke or poison gas, etc. 
+
+Lightning Bolt
+Type: Missile
+STR Cost:  1 per 1d6 damage
+
+Lightning Bolt creates a bolt of lightning that arcs to a target (which may be a character or inanimate object) and damages it.  If a target is destroyed, further damage continues through to the next target.  Destroys all magic items carried by a target killed or destroyed by the spell. 
+
+Remove Thrown Spell
+Type: Thrown
+STR Cost:  2
+
+Dispels any Thrown spell.  (Note that many protective and other types of spells are of the Thrown type.)  It can be used to counter an incoming Thrown spell, or to remove a Thrown spell that is already in place.  Affects only Thrown spells, and no other type. 
+
+Spell Shield
+Type: Thrown
+STR Cost:  3 + 1 per Turn
+
+Spell Shield protects the target from any hostile spells.  All Thrown, Missile, and Special spells cast directly at the target fail, and their caster pays the full STR cost for all spells cast (exception: for Death Spell, its caster pays 1 STR).  Only protects against the direct effects of spells; does not protect against damage from weapons, summoned or created beings, illusions, or the Magic Rope or Slippery Floor spells. 
+
+Summon Giant
+Type: Creation (Summoning)
+STR Cost:  4 + 1 per Turn
+
+Summons a giant.  (See Bestiary for giant stats, and Summoning section for more information.) 
+Min. INT 15:
+7-hex Image
+Type: Creation (Image)
+STR Cost:  4
+
+Creates an Image of up to 7 hexes in size (which may be in any configuration chosen by the caster, as long as they are connected).  See also the Images and Illusions section for more information.
+
+7-hex Shadow
+Type: Creation
+STR Cost: 3
+
+Acts exactly as the Shadow spell, except that it affects 7 hexes (which may be in any configuration chosen by the caster, as long as they are connected). 
+
+Giant Rope
+Type: Creation
+STR Cost:  5
+
+Acts as a Rope spell against creatures with 20 or more normal Strength.  Against smaller creatures, it acts as two Rope spells that must each be removed (one at a time) before the victim is free. 
+
+Iron Flesh
+Type: Thrown
+STR Cost: 3 + 1 per Turn
+
+The target of Iron Flesh gains 6 natural defense against all attacks; the spell is in other respects identical to Stone Flesh and works the same way. 
+
+Multihex Avert
+Type: Thrown
+STR Cost: 3 + 1 per Turn
+
+Acts as an Avert spell against all of the targets in a single multihex.  All of those characters act as if they are affected by Avert. 
+
+Summon Small Dragon
+Type: Creation (Summoning)
+STR Cost: 5 + 1 per Turn
+
+Summons a small dragon under the control of the caster.  (See Bestiary for small dragon stats; see Summoning section for more information.)
+
+Teleport
+Type: Special
+STR Cost: 1 per multihex traveled
+
+Teleport causes the caster to disappear from where he is and reappear somewhere else, without passing through the hexes in between.  Teleport is not stopped by any barrier.  If the caster teleports to a hex that is occupied by a solid object, he dies (as does the object, if it was alive).  If the caster can see his target hex he can made a 3d6 Dexterity Check to avoid a solid object that does not take up the full hex (such as a person), but any creature of larger than one hex takes up all of every hex it occupies.  An Illusion in the hex counts as a solid object for these purposes, but an Image does not (it disappears instead). 
+Min. INT 16:
+7-hex Fire
+Type: Creation
+STR Cost: 4
+
+Like the Fire spell; creates an area of fire up to 7 hexes (these hexes may be in any configuration chosen by the caster, as long as they are connected).  See also the Fire Damage section for more information. 
+
+7-hex Illusion
+Type: Creation (Illusion)
+STR Cost: 5
+
+Creates an illusion of anything up to 7 hexes in size (these hexes may be in any configuration chosen by the caster, as long as they are connected).  See also Images and Illusions for more information.
+
+7-hex Wall
+Type: Creation
+STR Cost: 6
+
+Works as the Wall spell, creating 7 hexes worth of wall (these hexes may be in any configuration chosen by the caster, as long as they are connected).  Does not fill an occupied hex with wall, although the spell may be used to surround and entrap a target with walls. 
+
+Death Spell
+Type: Thrown
+STR Cost: *
+
+Both the caster and the target immediately lose an amount of STR equal to the lower of both character's Strength scores.  This means the target with lower STR dies (even if it is the caster), and the target with higher STR loses as much STR as he had.  Spell Shield (q.v.) stops this spell, but no other spell does. 
+
+Multihex Sleep
+Type: Thrown
+STR Cost: 8
+
+As Sleep, except that it affects every creature of up to 20 Strength in a single multihex (except the caster, if applicable) or any single creature of up to 50 Strength. 
+
+Summon Large Dragon
+Type: Creation (Summoning)
+STR Cost: 5 + 2 per Turn
+
+Summons a large dragon under the control of the caster.  (See Bestiary for stats for large dragon; see Summoning section for more information.)
+BESTIARY
+This is the monster section.  The monsters are here for characters to fight.  Some, depending on where they are encountered, may even have treasure for them to take.  Some of these monsters may be summoned via the appropriate spell. 
+
+Animal Motivations:  Some monsters are listed as having "animal motivations".  Animals won't generally attack unless cornered, injured, frightened, hungry, defending young (especially mothers), attacked themselves, or under some kind of magical control or compulsion.  Unless any of these conditions apply, an animal will generally just go about its business. 
+
+Bear
+STR 30  DEX 11  INT 6  MOV 8
+Attacks:  Bite for 2d6+2
+Armor:  2 natural defense
+Size:  2 hexes
+
+This is an ordinary bear.  Bears are unlikely to have treasure, and have normal animal motivations. 
+
+Demon
+There are two types of demons commonly encountered: lesser and greater.
+
+Lesser Demon
+STR 50  DEX 13  INT 16  MOV 16 flying or teleport anywhere within LOS
+Attacks:  Claws for 2d6
+Armor:  Demonic flesh provides 3 natural defense.
+Size: 1 hex
+
+Greater Demon
+STR 100  DEX 14  INT 20  MOV 20 flying or teleport anywhere within LOS
+Attacks:  Claws for 4d6
+Armor:  Demonic flesh provides 4 natural defense.
+Size:  2 hexes
+
+Demons are pretty much pure evil.  They are intelligent, cunning, and wary.  They are difficult to trick. 
+
+Greater demons are, if bound properly, capable of granting wishes, but beware the wording! 
+
+Dragon
+Dragons are winged reptiles capable of flight.  Most dragons are greenish in hue, but some may be of other colors.  Some dragons have different types of breath weapons, but there doesn't seem to be a correlation between dragon color and breath weapon type.  Dragonskin is capable of being made into armor by a skilled tanner and armourer, and dragon droppings (fewmets) are one source of saltpeter (used in the making of gunpowder). 
+
+There are at least three types of dragons: small, large, and immense. 
+
+Small Dragon
+STR 20  DEX 13  INT 12  MOV 12 flying, 4 ground
+Attacks:  Claws for 2d6, breath weapon for 3d6 damage
+Armor:  Dragon flesh provides 2 natural defense.
+Size:  4 hexes
+
+Small dragons are 8-10' in length.  They are highly intelligent though do not generally use spells.  Small dragons are young; they increase dramatically in size as they grow older. 
+
+Large Dragon
+STR 50   DEX 14   INT 14   MOV 18 flying, 6 ground
+Attacks:  Claws for 3d6, breath weapon for 4d6 or more
+Armor:  The large dragon's skin provides 4 natural defense. 
+Size:  7 hexes
+
+Large dragons are 12-18 feet in length.  They are even more intelligent than younger dragons, and many dragons have Skills and/or spells (summoned dragons will use neither). 
+
+Immense Dragon
+
+Don't bother statting out immense dragons.  They are plot devices; mountains grow up around them as they sleep for hundreds or thousands of years.  They will probably know every spell, are highly intelligent (20+), and do not appreciate being awoken!  They can't be summoned.  If the characters try to kill one, they have ST scores in the hundreds, might not be able to claw (but if they do they do 4d6), have breath weapons that do 6d6 or more damage, and their flesh provides 7 natural defense. 
+
+
+Gargoyle
+STR 20  DEX 11  INT 8  MOV 8 ground, 16 flying
+Attacks:  Fist or claws for 2d6 damage.
+Armor:  Stony skin provides 4 natural defense. 
+Size: 2 hexes
+
+Gargoyles are encountered either as the protector of a castle or keep, or as a summoned being.  In the former case, they fight to protect their castle; in the latter, they act solely under the control of the summoning wizard. 
+
+Giant
+STR 50+  DEX 8  INT 8  MOV 15 ground
+Attacks:  Fist for Strength bludgeoning damage, or giant sized weapon (+6 to damage per +3 hexes in size)
+Armor:  1 natural defense, plus armor type (giant size armor provides an additional +1 defense)
+Size:  3 hexes or more
+
+Giants are very large humanoids.  They may be 15 feet tall or taller. 
+
+Lion
+STR 24  DEX 14  INT 6  MOV 12
+Attacks:  Claws or bite for 2d6 damage
+Armor:  1 natural defense
+Size:  2 hexes
+
+Most frequently encountered are hunting lionesses.  Occasionally males are encountered with the pride, or (rarely) ill or insane males, expelled from the pride, may be encountered hunting on their own or in pairs.  Unlikely to have treasure and have normal animal motivations.  Males can also be encountered in gladiatorial arenas, and are frequently mistreated; they will be highly aggressive in this case. 
+
+Lycanthrope
+For stats see the appropriate animal form, plus modifications below. 
+
+This is a human that can change into an animal form.  The character automatically changes to animal form from sunset to sunrise on the nights of the full moon.  In animal form, the lycanthrope has 2 INT less than its human form plus 3 natural defense that does not protect against silver attacks; it also regenerates 1 point of (lethal) damage per Turn (any damage caused by silver weapons excepted).  These protections and abilities do not apply in human form, although in either form damage inflicted on the lycanthrope by silver weapons does not heal normally (this damage heals at the rate of 1 point per week, or 1 per day if under
+
+Spending too much time in animal form can cause deleterious effects on the lycanthrope's intelligence; it loses 1 INT per week it doesn't change back.  Upon reaching INT 7 it will begin to forget it was ever human, and at INT 6 it will not attempt to turn back to human.  These are not permanent losses; changing back to human form, and remaining that way for half the time spent in animal form, will restore all of the animal form's lost INT.  The human form does not suffer INT loss. 
+
+Lycanthropy (the "curse" or disease that turns a person into a lycanthrope) is transmitted via bite; any bite attack that does 1 point of damage to a human or humanoid character (after defenses) requires a 3d6 STR check after the fight is over, and one at the next full moon.  Failing this check causes the character to become a lycanthrope.  Applying wolfsbane (via a poultice directly to the wound, or in a strong tea every night until the next full moon) gives the character another STR check; any curse removal or disease curing magic can definitively cure the character -- if applied before the next full moon.
+
+Lycanthropes automatically take animal form during nights of the full moon, and may do so during other times when under extreme stress.  (Combat doesn't necessarily count as extreme stress, though being wounded for half or more of the character's STR does.)  When under such stress the lycanthrope makes a 2d6 Intelligence Check to avoid switching forms, +1d6 if it's nighttime, and +1d6 if it's within three days either side of the full moon.
+
+Contrary to popular belief, lycanthropes in animal form are not necessarily berserk killers.  They have the normal motivations of the animal, with the added bonus of the human side's socialization.  If a lycanthrope stays up late the night before the full moon, and eats well that night (and especially right before sunset) it is more likely to find somewhere safe to sleep out the night than it is to go hunting.  Lycanthrope characters who are hungry, frightened, stressed, etc. are as likely to attack humans as a normal animal.
+
+Despite being merely humans who can shapechange into animals, lycanthropes are often hunted by those who don't understand them, and are almost always persona non grata in small towns and villages. 
+
+Known lycanthrope types are: werewolf, werebear, wereboar, werecat, wererat. 
+
+Myrmidon
+STR 12  DEX 12  INT 8  MOV 10
+Attacks:  Broadsword for 2d6
+Armor:  None
+Size:  1 hex
+
+This is an ordinary human warrior.  When encountered in situations other than summoning, the myrmidon may be equipped with other arms and armor, and may have variation in attributes.  Summoned myrmidons will have no armor; those encountered in other situations may have some appropriate armor type. 
+
+Snake, Small
+STR 8  DEX 13  INT 4  MOV 6
+Attacks:  Bite for 1d6-1
+Armor:  None
+Size:  Small (<1 hex)
+
+Due to its small size, attacks against this creature are at -2.  Snakes have normal animal motivations and are unlikely to have treasure. 
+
+
+Wolf
+STR 10  DEX 14  INT 6   MOV 12
+Attacks:  Bite (1d6+1 damage)
+Armor:  1 natural defense. 
+
+This is an ordinary wolf, with animal motivations.  Unlikely to have any treasure.  
+EXPERIENCE POINTS
+Characters gain Experience Points from adventuring, which are awarded at the end of an adventure.  Experience Points can be spent to improve Attributes, buy new spells or Skills, or buy bonuses to spell or Skill use. 
+
+Points:
+
+1 point for being involved in a fight using primary combat mode (weapons for warrior, magic for wizard)
++1 point for getting multiple hits in on one or more targets, and/or for successfully defending
++1 point for winning the fight
+
+1 point for, using other combat mode (magic for warrior, weapons for wizard) getting multiple hits in on one or more targets
+
+1 point for making one or more noncombat Attribute Checks (whether or not related to Skills or spells)
++1 point for doing so for making multiple spell, Skill or Attribute Checks on multiple occasions. 
++1 for winning a conflict through use of noncombat spell, Skill or Attribute Checks or for avoiding a fight through noncombat spell or Skill use or Attribute Checks
+
++1 point good roleplaying bonus
++1 point for a situation in which good roleplaying results in the character's defeat. 
+Spending points
+Buying a new Skill costs ((20 - character's INT) + Skill's minimum INT) * number of Slots the Skill costs
+
+You may substitute DEX for INT in here, if all of the following conditions apply:  (a)  the Skill is DEX-based, or requires a DEX Check (including combat Skills that use DEX), (b) the character's DEX is higher than the Skill's minimum INT, and (c) the Skill is not a magical Skill or apply to magical combat (in other words, for Skills like Thrown Spells and Missile Spells). 
+
+Buying a new spell costs ((20 - character's INT) + spell's minimum INT).  Multiply the cost by 3 if the character doesn't already have at least one spell.  You may not substitute DEX for INT when buying a spell. 
+
+These costs apply to all characters, whether Warrior or Wizard. 
+
+Buying either a new Skill or a new spell requires some way to learn the spell (which means access to either someone who knows the spell, or a spellbook or scroll in which the spell is written), plus time spent in training.  (It doesn't have to be noncombat time, if sufficient time passes during an adventure for training to occur, assuming the character has access to the appropriate teachers and materials during that time.) 
+
+In order to learn new spells, the character must be Literate. 
+
+The character's maximum number of Skills or spells no longer apply when buying additional Skills, spells, or bonuses to either. 
+Buying Skill bonuses
+Characters can buy bonuses to Skills.  If the Skill has an improved, advanced, or expert version, the character must already have that version of the Skill.  Bonuses cost 3 points times the Skill's slot cost for +1, to a maximum of +3 to one Skill. 
+
+To buy a bonus that applies to both the basic and advanced versions of a Skill, spend points based on the highest slot cost of all of the Skills in the chain. 
+
+The bonus must not duplicate an existing Skill. 
+Buying Spell bonuses: 
+Similar to Skill bonuses, a character can buy bonuses that apply to casting a spell.  The cost in Experience Points is equal to the spell's INT minimum for +1, to a maximum of +3.  This does not apply to rolls to hit with Thrown or Missile Spells. 
+Improving Attributes
+Characters can buy up their Attributes with Experience Points.  If the new Attribute point would bring the character's total points into the 31-40 range, the Attribute point costs 20 Experience Points.  If it would bring the character into the 41-50 range, it costs 40 Experience Points.  In the 51-60 range it costs 80 Experience Points.  And so on.  If the character is low enough points that it would bring him into the 21-30 range, it costs 10 points, and to 20 or less would cost 5 Experience Points. 
+
+It's assumed that an active adventuring life will give the character opportunities to train up his Dexterity or Intelligence, but the character must specify if he's working on Strength. 
+
+There are no hard and fast rules for how much time it takes to buy a new Skill or spell, to buy bonuses to a Skill or spell, or to buy up an Attribute, except that it generally takes weeks (to buy bonuses) or months (to buy a new Skill or spell or increase Attributes). 
+
+
+
+
+
+
+Conversions
+Converting characters to Warrior & Wizard should prove to be fairly simple.  Here are some guidelines:
+
+Strength:  In Warrior & Wizard, Strength represents a character's general health and ability to take damage as well as physical lifting power.  Most games break these into two separate attributes.  When converting a character to Warrior & Wizard, use the average of the character's Strength and Constitution or Health-type attributes. 
+
+Dexterity:  Most games use a single Dexterity attribute.  When converting characters from games that use more than one attribute to represent a character's reaction time, agility, coordination, etc., average them together. 
+
+Intelligence:  In Warrior & Wizard, Intelligence represents all of a character's mental capabilities, including willpower and social ability.  In games that have separate attributes to reflect these capabilities, average them together.  (If the original character has a higher willpower-type stat, the converted character should have the Will Skill; if the original character has a higher social stat, in Warrior & Wizard he should have Charisma.)
+
+Movement:  Determine the character's Movement score as if he were a beginning Warrior & Wizard character. 
+
+Here are notes for converting Attributes based on numeric ranges:
+
+3-18:  These games use attributes with a 3-18 range (that is, 3 is the lowest, and 18 is the highest); they might be based on rolling dice to determine the attributes, spending points, or some other method.  When converting, subtract 10 from the base attribute, divide the result by 2, and add this value to 10.  This will result in characters having Warrior & Wizard attributes closer to 10 than in the original game. 
+
+0-20:  These games use 0 to represent the lowest possible human score and 20 to represent the human maximum.  Use the same method as for 3-18 (subtract 10, divide by 2, and add 10). 
+
+8-14:  These games don't use 8 as the minimum or 14 as the maximum, but in them 8 is considered very low and 14 very high.  Use the listed values. 
+
+1-5 or 1-6:  These games use lower numbers to represent the range of human ability.  To determine the Warrior & Wizard value, add 8 to the attribute. 
+
+Other games:  You'll want to massage the original attributes in such a way as to produce numbers where 8 is a low human value and 14-15 is very high. 
+
+If the converted character has an Attribute point total of less than 32, you can give the character enough extra points to make up the difference; if the converted total is higher, you can either require the character to stop at 32 points (this is recommended) or allow the other characters sufficient extra points, or simply allow the lucky character his extra points. 
+
+Skills:  Many other roleplaying games are skill-based; converting the skills of characters from these games should be a matter of finding Warrior & Wizard Skills with the same or similar names, or Skills that cover similar areas, as the Skills the original character possesses.  When converting from games that don't use skill lists, allow the players to buy Skills using their IQ-based slots as if they were starting Warrior & Wizard characters. 
+
+Spells: Don't worry about a strict conversion of spells; instead, if the original character was a wizard or other magic using type of character, allow the character to choose spells as if he were a starting Warrior & Wizard character.  You can, if you wish, require the character to choose spells as similar as possible to the ones he had in the original game, or not. 
+
+Other Abilities: If characters have other, specialized abilities, you can either find some way to convert them, or ignore them.  If converting them, it's recommended to require either Skill or spell slots; extremely useful or powerful abilities should take more slots. 
+Converting Monsters
+When converting monsters, some additional guidelines are in order.  Some games rate monsters with attributes similarly to characters; in that case, you can simply convert the values as if they were characters.  If the original game doesn't, or in some cases even if it does, it may be more useful to use the following guidelines:
+
+Strength:  Strength depends largely on the monster's size.  Very small monsters (the size of large dogs or smaller) will have Strength scores of 8 or lower; GMs can give very small monsters that may be harder to kill additional "hit points" (effectively, Strength points that only reflect damage value and not physical strength or power).  Monsters that approximate human size (including humanoids such as orcs, goblins, and so forth) will have comparable Strength scores.  Monsters that are somewhat larger than humans (such as trolls and ogres -- 2 hexes) will have Strength scores in the 15-20 range.  Monsters a lot larger than humans (twice human height/eight times human mass or larger, 3 hexes or more) can easily have 30+ Strength. 
+
+Dexterity:  Dexterity scores will tend to approximate human scores, with two exceptions: monsters that are small, more agile, and harder to hit will generally have higher scores, and monsters that are larger, slower and lumbering will have lower scores.  (Note, however, that larger monsters are not necessarily slower or less dexterous, nor are smaller monsters necessarily quicker.) 
+
+Intelligence:  Intelligence will tend to be somewhat subjective.  Monsters with animal intelligence will have Intelligence scores of 6 or lower (bright animals such as primates and cetaceans may have scores in the 7-8 range, or more if they are truly sapient and/or magically enhanced).  Intelligent monsters will generally have scores in the 8-14 range, while very intelligent and/or powerful monsters (such as dragons, demons, and the like) might have Intelligence scores of 15-30 or more.
+
+Natural attacks:  Many monsters will have claws or large talons, bite attacks, or other kinds of natural weaponry.  Very small monsters (including animals such as cats and dogs) will have attacks in the 1d6-4 to 1d6 range.  Larger creatures can easily have attacks upwards of 2d6.  It can be useful to compare the original damage value to a weapon's damage to find the monster's damage. 
+
+Natural defenses:  Many monsters will have natural armor in the 1-2 range; creatures that are harder to kill may have 3 or more (monsters with 5-6 defense will be very hard to kill and should be very rare).  Some monsters that are harder to kill might have this reflected by a higher Strength (or hit point) score rather than natural defenses. 
+
+Other special abilities: Try to correlate them to spells or other abilities within the game.  Instead of requiring Strength to fuel these abilities, they are more commonly limited in uses to a few times per day.  For instance, some monsters might be able to throw a natural Fireball attack, up to a total of 6 dice per day.  Some monsters have wings or other natural flight ability, and flying Movement rates will tend to be about one and a half to twice normal character movement rates.  Some monsters might take half damage from some attack types (or from everything but some attack types), while others might take extra damage from some attack types.  Don't try to overthink it; it might be best to simply jot down a quick conversion and move on. 
+Legal Stuff
+
+WARRIOR & WIZARDTM System Reference Document Copyright 2008 by Christopher A. Goodwin.
+
+
+
+WARRIOR & WIZARDTM is dual licensed under a Creative Commons Attribution-Share Alike 3.0 United States License and the Open Game License.
+
+WARRIOR & WIZARD is a trademark of Christopher A. Goodwin and is considered Product Identity under the Open Game License.  Use of the name WARRIOR & WIZARD to refer to these rules is permitted as long as authorship information is maintained and the document is distributed in accordance with the terms of the license. 
+
+
+
+
+
