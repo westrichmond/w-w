@@ -1,0 +1,4 @@
+Movement and Distance
+Combat and movement take place on a hexagonal grid.  Two types of distance are referred to in WARRIOR & WIZARD:  hexes and multihexes.  A hex is simply one space on the map; a multihex refers to one hex plus the six hexes immediately surrounding and touching it.  One hex is approximately one yard (or one meter); one combat turn is approximately one second. 
+
+If using a square grid, one multihex is a group of nine squares arranged three-by-three; it might prove useful to set one multihex to be 10 feet by 10 feet.  In a square grid, assume that for lateral movement, one diagonal square is equal to two squares of movement distance, but for areas assume that one space diagonally is equal to one hex (one yard or meter). 

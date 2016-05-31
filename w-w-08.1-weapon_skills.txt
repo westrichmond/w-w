@@ -1,0 +1,148 @@
+Weapon Skills (Min. INT varies):
+Weapon Familiarity: The character is familiar with a weapon, or type of weapon, and knows how to use it in combat at no penalty.  Attempting to use a weapon in combat without knowing how to use it incurs a -4 penalty on all rolls to hit; some weapons either can't be used unskilled or can potentially injure the unskilled user (this is noted in the weapon's description).  Costs and Minimum Intelligence scores for the various weapon groups are listed in the table below:
+
+[This is supposed to be a chart]
+
+
+Skill
+Slots
+Min. INT
+Notes
+Axe/Mace/Hammer
+2
+7
+Except club (no skill required)
+Blowgun
+1
+8
+Uncommon Missile Weapon
+Bola
+1
+8
+Uncommon Thrown Weapon.  Prerequisite: Thrown Weapons
+Boomerang
+1
+8
+Uncommon Thrown Weapon.  Prerequisite: Thrown Weapons
+Bows
+2
+7
+
+
+Common Melee Weapons
+3
+9
+Weapon Category
+Common Missile Weapons
+3
+9
+Weapon Category
+Crossbow
+1
+7
+
+
+Guns
+2
+8
+Refers to pre-modern firearms.  Weapon Category
+Knife
+1
+7
+Regular cost for Wizards
+Lasso
+2
+8
+Uncommon Thrown Weapon
+Longbow
+1
+7
+
+
+Missile Spells
+1
+8
+Regular cost for Wizards
+Naginata
+1
+8
+Uncommon Melee Weapon.  Prerequisite: Pole Arms
+Net and Trident
+
+
+
+
+Prerequisite:  Pole Arms
+Pistols
+1
+8
+Refers to modern pistols
+Pole Arms
+2
+7
+
+
+Quarterstaff
+1
+8
+Uncommon Melee Weapon
+Rifles
+1
+8
+Refers to modern rifles
+Sha-Ken
+1
+8
+Prerequisite: Thrown Weapons
+Shield
+1
+7
+
+
+Shortbow
+1
+7
+
+
+Shotguns
+1
+8
+Refers to modern shotguns.
+Sling
+
+
+
+
+
+
+Small Arms
+2
+8
+ Weapon Category
+Swords
+2
+7
+Weapon Category (includes Knives).  Part of Common Melee Weapons
+Thrown Spells
+1
+8
+Regular cost for Wizards
+Thrown Weapons
+2
+8
+
+
+
+
+
+The weapon categories are as follows:
+
+Common Melee Weapons: Includes Axe/Mace/Hammer, Knives, Pole Arms, Swords. 
+Common Missile Weapons: Includes Bows, Crossbows, Slings. 
+Uncommon Melee Weapons: Each of the following is its own Skill and must be bought separately:  Blowgun, Bola, Boomerang, Cestus, Lasso, Naginata, Net, Quarterstaff, Sha-Ken, Spear Thrower. 
+Common Small Arms:  Pistols (incl. Revolvers), Rifles, Shotguns, Submachine Guns. 
+Common Thrown Weapons:  Thrown Rock, Thrown Knife, Grenades. 
+
+The cost of any of the "Common" groups is reduced if you have any of the component groups, by the cost of the component groups.   More information on weapons, including using them in combat, may be found in the Combat section.
+
+Familiarity with a weapon also provides some effective Armoury skill when using that weapon; the character knows how to perform basic field maintenance and some extremely minor repairs.  Weapon Familiarity Cost:  See table.  Min. INT:  See table.

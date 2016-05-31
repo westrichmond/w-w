@@ -1,0 +1,8 @@
+Types of Games
+Generally, Warrior & Wizard will be played as either an arena combat game, a dungeon adventuring game, or as a replacement for another fantasy roleplaying game ruleset. 
+
+Arena games:  When creating an arena, it can be sufficient to draw a playing field on hex paper.  It's recommended that the area contain plenty of obstacles, and an environment conducive to being used in combat (anything from sand that can be kicked into an opponent's eyes to old, rusted, weapons (or pieces thereof) laying around, bones and body parts from previous combats, bloodstains, etc.).  Arena games are good for player vs. player type games, with or without a referee, or as a sideline to a bigger adventure or campaign.  Arena games should include a basic goal or victory condition other than just killing off the other side, as well as a beginning setup (including where characters start, their basic weapons and armor, etc.).  Wargame-style scenarios can also be treated as arena games, especially with multiple players on a team and a GM. 
+
+Dungeons: A dungeon is an underground maze or cavern system, usually made up of rooms connected by corridors or passageways, containing monsters to fight against, traps and other hazards to avoid, and treasures to collect.  Treasures can be either monetary in nature or magical (these can range from magical weapons to staves containing their own spell effects to ancient artifacts to pretty much anything the GM can think of or import from another game system).  Dungeons are usually drawn or mapped out on square-ruled graph paper. 
+
+Replacement for another game:  GMs and players can use adventures as is, converting opponents using the conversion rules at the end of the document.

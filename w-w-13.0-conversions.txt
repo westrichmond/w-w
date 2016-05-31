@@ -1,0 +1,44 @@
+Conversions
+Converting characters to Warrior & Wizard should prove to be fairly simple.  Here are some guidelines:
+
+Strength:  In Warrior & Wizard, Strength represents a character's general health and ability to take damage as well as physical lifting power.  Most games break these into two separate attributes.  When converting a character to Warrior & Wizard, use the average of the character's Strength and Constitution or Health-type attributes. 
+
+Dexterity:  Most games use a single Dexterity attribute.  When converting characters from games that use more than one attribute to represent a character's reaction time, agility, coordination, etc., average them together. 
+
+Intelligence:  In Warrior & Wizard, Intelligence represents all of a character's mental capabilities, including willpower and social ability.  In games that have separate attributes to reflect these capabilities, average them together.  (If the original character has a higher willpower-type stat, the converted character should have the Will Skill; if the original character has a higher social stat, in Warrior & Wizard he should have Charisma.)
+
+Movement:  Determine the character's Movement score as if he were a beginning Warrior & Wizard character. 
+
+Here are notes for converting Attributes based on numeric ranges:
+
+3-18:  These games use attributes with a 3-18 range (that is, 3 is the lowest, and 18 is the highest); they might be based on rolling dice to determine the attributes, spending points, or some other method.  When converting, subtract 10 from the base attribute, divide the result by 2, and add this value to 10.  This will result in characters having Warrior & Wizard attributes closer to 10 than in the original game. 
+
+0-20:  These games use 0 to represent the lowest possible human score and 20 to represent the human maximum.  Use the same method as for 3-18 (subtract 10, divide by 2, and add 10). 
+
+8-14:  These games don't use 8 as the minimum or 14 as the maximum, but in them 8 is considered very low and 14 very high.  Use the listed values. 
+
+1-5 or 1-6:  These games use lower numbers to represent the range of human ability.  To determine the Warrior & Wizard value, add 8 to the attribute. 
+
+Other games:  You'll want to massage the original attributes in such a way as to produce numbers where 8 is a low human value and 14-15 is very high. 
+
+If the converted character has an Attribute point total of less than 32, you can give the character enough extra points to make up the difference; if the converted total is higher, you can either require the character to stop at 32 points (this is recommended) or allow the other characters sufficient extra points, or simply allow the lucky character his extra points. 
+
+Skills:  Many other roleplaying games are skill-based; converting the skills of characters from these games should be a matter of finding Warrior & Wizard Skills with the same or similar names, or Skills that cover similar areas, as the Skills the original character possesses.  When converting from games that don't use skill lists, allow the players to buy Skills using their IQ-based slots as if they were starting Warrior & Wizard characters. 
+
+Spells: Don't worry about a strict conversion of spells; instead, if the original character was a wizard or other magic using type of character, allow the character to choose spells as if he were a starting Warrior & Wizard character.  You can, if you wish, require the character to choose spells as similar as possible to the ones he had in the original game, or not. 
+
+Other Abilities: If characters have other, specialized abilities, you can either find some way to convert them, or ignore them.  If converting them, it's recommended to require either Skill or spell slots; extremely useful or powerful abilities should take more slots. 
+Converting Monsters
+When converting monsters, some additional guidelines are in order.  Some games rate monsters with attributes similarly to characters; in that case, you can simply convert the values as if they were characters.  If the original game doesn't, or in some cases even if it does, it may be more useful to use the following guidelines:
+
+Strength:  Strength depends largely on the monster's size.  Very small monsters (the size of large dogs or smaller) will have Strength scores of 8 or lower; GMs can give very small monsters that may be harder to kill additional "hit points" (effectively, Strength points that only reflect damage value and not physical strength or power).  Monsters that approximate human size (including humanoids such as orcs, goblins, and so forth) will have comparable Strength scores.  Monsters that are somewhat larger than humans (such as trolls and ogres -- 2 hexes) will have Strength scores in the 15-20 range.  Monsters a lot larger than humans (twice human height/eight times human mass or larger, 3 hexes or more) can easily have 30+ Strength. 
+
+Dexterity:  Dexterity scores will tend to approximate human scores, with two exceptions: monsters that are small, more agile, and harder to hit will generally have higher scores, and monsters that are larger, slower and lumbering will have lower scores.  (Note, however, that larger monsters are not necessarily slower or less dexterous, nor are smaller monsters necessarily quicker.) 
+
+Intelligence:  Intelligence will tend to be somewhat subjective.  Monsters with animal intelligence will have Intelligence scores of 6 or lower (bright animals such as primates and cetaceans may have scores in the 7-8 range, or more if they are truly sapient and/or magically enhanced).  Intelligent monsters will generally have scores in the 8-14 range, while very intelligent and/or powerful monsters (such as dragons, demons, and the like) might have Intelligence scores of 15-30 or more.
+
+Natural attacks:  Many monsters will have claws or large talons, bite attacks, or other kinds of natural weaponry.  Very small monsters (including animals such as cats and dogs) will have attacks in the 1d6-4 to 1d6 range.  Larger creatures can easily have attacks upwards of 2d6.  It can be useful to compare the original damage value to a weapon's damage to find the monster's damage. 
+
+Natural defenses:  Many monsters will have natural armor in the 1-2 range; creatures that are harder to kill may have 3 or more (monsters with 5-6 defense will be very hard to kill and should be very rare).  Some monsters that are harder to kill might have this reflected by a higher Strength (or hit point) score rather than natural defenses. 
+
+Other special abilities: Try to correlate them to spells or other abilities within the game.  Instead of requiring Strength to fuel these abilities, they are more commonly limited in uses to a few times per day.  For instance, some monsters might be able to throw a natural Fireball attack, up to a total of 6 dice per day.  Some monsters have wings or other natural flight ability, and flying Movement rates will tend to be about one and a half to twice normal character movement rates.  Some monsters might take half damage from some attack types (or from everything but some attack types), while others might take extra damage from some attack types.  Don't try to overthink it; it might be best to simply jot down a quick conversion and move on. 

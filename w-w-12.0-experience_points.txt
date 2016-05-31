@@ -1,0 +1,46 @@
+EXPERIENCE POINTS
+Characters gain Experience Points from adventuring, which are awarded at the end of an adventure.  Experience Points can be spent to improve Attributes, buy new spells or Skills, or buy bonuses to spell or Skill use. 
+
+Points:
+
+1 point for being involved in a fight using primary combat mode (weapons for warrior, magic for wizard)
++1 point for getting multiple hits in on one or more targets, and/or for successfully defending
++1 point for winning the fight
+
+1 point for, using other combat mode (magic for warrior, weapons for wizard) getting multiple hits in on one or more targets
+
+1 point for making one or more noncombat Attribute Checks (whether or not related to Skills or spells)
++1 point for doing so for making multiple spell, Skill or Attribute Checks on multiple occasions. 
++1 for winning a conflict through use of noncombat spell, Skill or Attribute Checks or for avoiding a fight through noncombat spell or Skill use or Attribute Checks
+
++1 point good roleplaying bonus
++1 point for a situation in which good roleplaying results in the character's defeat. 
+Spending points
+Buying a new Skill costs ((20 - character's INT) + Skill's minimum INT) * number of Slots the Skill costs
+
+You may substitute DEX for INT in here, if all of the following conditions apply:  (a)  the Skill is DEX-based, or requires a DEX Check (including combat Skills that use DEX), (b) the character's DEX is higher than the Skill's minimum INT, and (c) the Skill is not a magical Skill or apply to magical combat (in other words, for Skills like Thrown Spells and Missile Spells). 
+
+Buying a new spell costs ((20 - character's INT) + spell's minimum INT).  Multiply the cost by 3 if the character doesn't already have at least one spell.  You may not substitute DEX for INT when buying a spell. 
+
+These costs apply to all characters, whether Warrior or Wizard. 
+
+Buying either a new Skill or a new spell requires some way to learn the spell (which means access to either someone who knows the spell, or a spellbook or scroll in which the spell is written), plus time spent in training.  (It doesn't have to be noncombat time, if sufficient time passes during an adventure for training to occur, assuming the character has access to the appropriate teachers and materials during that time.) 
+
+In order to learn new spells, the character must be Literate. 
+
+The character's maximum number of Skills or spells no longer apply when buying additional Skills, spells, or bonuses to either. 
+Buying Skill bonuses
+Characters can buy bonuses to Skills.  If the Skill has an improved, advanced, or expert version, the character must already have that version of the Skill.  Bonuses cost 3 points times the Skill's slot cost for +1, to a maximum of +3 to one Skill. 
+
+To buy a bonus that applies to both the basic and advanced versions of a Skill, spend points based on the highest slot cost of all of the Skills in the chain. 
+
+The bonus must not duplicate an existing Skill. 
+Buying Spell bonuses: 
+Similar to Skill bonuses, a character can buy bonuses that apply to casting a spell.  The cost in Experience Points is equal to the spell's INT minimum for +1, to a maximum of +3.  This does not apply to rolls to hit with Thrown or Missile Spells. 
+Improving Attributes
+Characters can buy up their Attributes with Experience Points.  If the new Attribute point would bring the character's total points into the 31-40 range, the Attribute point costs 20 Experience Points.  If it would bring the character into the 41-50 range, it costs 40 Experience Points.  In the 51-60 range it costs 80 Experience Points.  And so on.  If the character is low enough points that it would bring him into the 21-30 range, it costs 10 points, and to 20 or less would cost 5 Experience Points. 
+
+It's assumed that an active adventuring life will give the character opportunities to train up his Dexterity or Intelligence, but the character must specify if he's working on Strength. 
+
+There are no hard and fast rules for how much time it takes to buy a new Skill or spell, to buy bonuses to a Skill or spell, or to buy up an Attribute, except that it generally takes weeks (to buy bonuses) or months (to buy a new Skill or spell or increase Attributes). 
+

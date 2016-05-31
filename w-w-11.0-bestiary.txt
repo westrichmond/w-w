@@ -1,0 +1,122 @@
+BESTIARY
+This is the monster section.  The monsters are here for characters to fight.  Some, depending on where they are encountered, may even have treasure for them to take.  Some of these monsters may be summoned via the appropriate spell. 
+
+Animal Motivations:  Some monsters are listed as having "animal motivations".  Animals won't generally attack unless cornered, injured, frightened, hungry, defending young (especially mothers), attacked themselves, or under some kind of magical control or compulsion.  Unless any of these conditions apply, an animal will generally just go about its business. 
+
+Bear
+STR 30  DEX 11  INT 6  MOV 8
+Attacks:  Bite for 2d6+2
+Armor:  2 natural defense
+Size:  2 hexes
+
+This is an ordinary bear.  Bears are unlikely to have treasure, and have normal animal motivations. 
+
+Demon
+There are two types of demons commonly encountered: lesser and greater.
+
+Lesser Demon
+STR 50  DEX 13  INT 16  MOV 16 flying or teleport anywhere within LOS
+Attacks:  Claws for 2d6
+Armor:  Demonic flesh provides 3 natural defense.
+Size: 1 hex
+
+Greater Demon
+STR 100  DEX 14  INT 20  MOV 20 flying or teleport anywhere within LOS
+Attacks:  Claws for 4d6
+Armor:  Demonic flesh provides 4 natural defense.
+Size:  2 hexes
+
+Demons are pretty much pure evil.  They are intelligent, cunning, and wary.  They are difficult to trick. 
+
+Greater demons are, if bound properly, capable of granting wishes, but beware the wording! 
+
+Dragon
+Dragons are winged reptiles capable of flight.  Most dragons are greenish in hue, but some may be of other colors.  Some dragons have different types of breath weapons, but there doesn't seem to be a correlation between dragon color and breath weapon type.  Dragonskin is capable of being made into armor by a skilled tanner and armourer, and dragon droppings (fewmets) are one source of saltpeter (used in the making of gunpowder). 
+
+There are at least three types of dragons: small, large, and immense. 
+
+Small Dragon
+STR 20  DEX 13  INT 12  MOV 12 flying, 4 ground
+Attacks:  Claws for 2d6, breath weapon for 3d6 damage
+Armor:  Dragon flesh provides 2 natural defense.
+Size:  4 hexes
+
+Small dragons are 8-10' in length.  They are highly intelligent though do not generally use spells.  Small dragons are young; they increase dramatically in size as they grow older. 
+
+Large Dragon
+STR 50   DEX 14   INT 14   MOV 18 flying, 6 ground
+Attacks:  Claws for 3d6, breath weapon for 4d6 or more
+Armor:  The large dragon's skin provides 4 natural defense. 
+Size:  7 hexes
+
+Large dragons are 12-18 feet in length.  They are even more intelligent than younger dragons, and many dragons have Skills and/or spells (summoned dragons will use neither). 
+
+Immense Dragon
+
+Don't bother statting out immense dragons.  They are plot devices; mountains grow up around them as they sleep for hundreds or thousands of years.  They will probably know every spell, are highly intelligent (20+), and do not appreciate being awoken!  They can't be summoned.  If the characters try to kill one, they have ST scores in the hundreds, might not be able to claw (but if they do they do 4d6), have breath weapons that do 6d6 or more damage, and their flesh provides 7 natural defense. 
+
+
+Gargoyle
+STR 20  DEX 11  INT 8  MOV 8 ground, 16 flying
+Attacks:  Fist or claws for 2d6 damage.
+Armor:  Stony skin provides 4 natural defense. 
+Size: 2 hexes
+
+Gargoyles are encountered either as the protector of a castle or keep, or as a summoned being.  In the former case, they fight to protect their castle; in the latter, they act solely under the control of the summoning wizard. 
+
+Giant
+STR 50+  DEX 8  INT 8  MOV 15 ground
+Attacks:  Fist for Strength bludgeoning damage, or giant sized weapon (+6 to damage per +3 hexes in size)
+Armor:  1 natural defense, plus armor type (giant size armor provides an additional +1 defense)
+Size:  3 hexes or more
+
+Giants are very large humanoids.  They may be 15 feet tall or taller. 
+
+Lion
+STR 24  DEX 14  INT 6  MOV 12
+Attacks:  Claws or bite for 2d6 damage
+Armor:  1 natural defense
+Size:  2 hexes
+
+Most frequently encountered are hunting lionesses.  Occasionally males are encountered with the pride, or (rarely) ill or insane males, expelled from the pride, may be encountered hunting on their own or in pairs.  Unlikely to have treasure and have normal animal motivations.  Males can also be encountered in gladiatorial arenas, and are frequently mistreated; they will be highly aggressive in this case. 
+
+Lycanthrope
+For stats see the appropriate animal form, plus modifications below. 
+
+This is a human that can change into an animal form.  The character automatically changes to animal form from sunset to sunrise on the nights of the full moon.  In animal form, the lycanthrope has 2 INT less than its human form plus 3 natural defense that does not protect against silver attacks; it also regenerates 1 point of (lethal) damage per Turn (any damage caused by silver weapons excepted).  These protections and abilities do not apply in human form, although in either form damage inflicted on the lycanthrope by silver weapons does not heal normally (this damage heals at the rate of 1 point per week, or 1 per day if under
+
+Spending too much time in animal form can cause deleterious effects on the lycanthrope's intelligence; it loses 1 INT per week it doesn't change back.  Upon reaching INT 7 it will begin to forget it was ever human, and at INT 6 it will not attempt to turn back to human.  These are not permanent losses; changing back to human form, and remaining that way for half the time spent in animal form, will restore all of the animal form's lost INT.  The human form does not suffer INT loss. 
+
+Lycanthropy (the "curse" or disease that turns a person into a lycanthrope) is transmitted via bite; any bite attack that does 1 point of damage to a human or humanoid character (after defenses) requires a 3d6 STR check after the fight is over, and one at the next full moon.  Failing this check causes the character to become a lycanthrope.  Applying wolfsbane (via a poultice directly to the wound, or in a strong tea every night until the next full moon) gives the character another STR check; any curse removal or disease curing magic can definitively cure the character -- if applied before the next full moon.
+
+Lycanthropes automatically take animal form during nights of the full moon, and may do so during other times when under extreme stress.  (Combat doesn't necessarily count as extreme stress, though being wounded for half or more of the character's STR does.)  When under such stress the lycanthrope makes a 2d6 Intelligence Check to avoid switching forms, +1d6 if it's nighttime, and +1d6 if it's within three days either side of the full moon.
+
+Contrary to popular belief, lycanthropes in animal form are not necessarily berserk killers.  They have the normal motivations of the animal, with the added bonus of the human side's socialization.  If a lycanthrope stays up late the night before the full moon, and eats well that night (and especially right before sunset) it is more likely to find somewhere safe to sleep out the night than it is to go hunting.  Lycanthrope characters who are hungry, frightened, stressed, etc. are as likely to attack humans as a normal animal.
+
+Despite being merely humans who can shapechange into animals, lycanthropes are often hunted by those who don't understand them, and are almost always persona non grata in small towns and villages. 
+
+Known lycanthrope types are: werewolf, werebear, wereboar, werecat, wererat. 
+
+Myrmidon
+STR 12  DEX 12  INT 8  MOV 10
+Attacks:  Broadsword for 2d6
+Armor:  None
+Size:  1 hex
+
+This is an ordinary human warrior.  When encountered in situations other than summoning, the myrmidon may be equipped with other arms and armor, and may have variation in attributes.  Summoned myrmidons will have no armor; those encountered in other situations may have some appropriate armor type. 
+
+Snake, Small
+STR 8  DEX 13  INT 4  MOV 6
+Attacks:  Bite for 1d6-1
+Armor:  None
+Size:  Small (<1 hex)
+
+Due to its small size, attacks against this creature are at -2.  Snakes have normal animal motivations and are unlikely to have treasure. 
+
+
+Wolf
+STR 10  DEX 14  INT 6   MOV 12
+Attacks:  Bite (1d6+1 damage)
+Armor:  1 natural defense. 
+
+This is an ordinary wolf, with animal motivations.  Unlikely to have any treasure.  

@@ -1,0 +1,49 @@
+Introduction
+Types of Games
+Movement and Distance
+Characters
+Character Types
+Attribute Checks
+Skills
+The Skill List
+Min. INT 8
+Min. INT 9:
+Min. INT 10:
+Min. INT 11:
+Min. INT 12:
+Min. INT 13:
+Min. INT 14:
+Weapon Skills (Min. INT varies):
+Fighting
+Phases:
+Combat Movement
+Combat Actions
+Attacking
+Damage
+Standard Damage Progression
+Weapons
+Armor:
+Encumbrance:
+Magic
+Casting a spell:
+Spellcasting and Damage:
+Spell Stat Block:
+The Spell List:
+Min. INT 8:
+Min. INT 9:
+Min. INT 10:
+Min. INT 11:
+Min. INT 12:
+Min. INT 13:
+Min. INT 14:
+Min. INT 15:
+Min. INT 16:
+BESTIARY
+EXPERIENCE POINTS
+Spending points
+Buying Skill bonuses
+Buying Spell bonuses:
+Improving Attributes
+Conversions
+Converting Monsters
+Legal Stuff

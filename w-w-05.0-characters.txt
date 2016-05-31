@@ -1,0 +1,18 @@
+Characters
+All characters have four Attributes: Strength, Dexterity, Intelligence, and Movement.  In later games, additional Attributes may be added.  (Attributes are defined as "those qualities all people possess in differing quantities"; we are well aware this is a circular definition...)
+
+Strength (STR):  Strength represents two things: a character's physical strength (including lifting ability and ability to deal damage), and his ability to withstand damage.  Attacks do damage to a character's Strength (see Combat for more information); the character's current Strength is equal to his normal Strength score minus any damage he has taken. 
+
+Dexterity (DEX):  Dexterity represents a character's quickness, general physical agility, and hand-eye coordination.  Characters roll against their Dexterity to hit other characters (see Attribute Checks and Combat).  Some weapons, armor, and other conditions reduce a character's Dexterity score; this is referred to as a character's Effective Dexterity.  Any time the character rolls against his Dexterity, he always uses his Effective Dexterity. 
+
+Intelligence (INT):  Intelligence represents a character's general reasoning, perception, and memory.  Characters roll against their Intelligence to sense things, to remember things that happened in the past, and to figure things out. 
+
+Movement (MOV):  Movement is not quite an Attribute, per se.  Human characters begin with a Movement score of 10; monsters and members of other races may have different Movement scores.  Movement can be increased by spending 1 point per +1 to Movement. 
+
+Optional Advanced Movement Rules:  Movement is equal to the character's (Current Strength + Effective Dexterity) / 2 (round up).  Care should be taken when calculating this value, as it can change even during combat; wounds, armor, and other factors can all have an effect on the character's Movement. 
+
+All characters receive a total of 32 points to allocate between the three Attributes (plus Movement, if desired).  Human characters have minimum scores of 8 in Strength, Dexterity, and Intelligence; monsters, as well as characters of other races, can have differing minimums or none at all. 
+
+Effective Attribute Values: Attributes will sometimes be referred to by their "effective" values, such as Effective Strength, Effective Dexterity, or Effective Intelligence.  This means the current value of those Attributes, modified by injury, encumbrance, and so on.  Wounds reduce a character's Effective Strength (see Effects of Damage), while a character's Effective Dexterity can be reduced either directly through the type of armor worn or indirectly through encumbrance (see Encumbrance). 
+
+Experience:  Characters can gain additional Experience Points through adventuring, which may be spent on Attributes as though they were starting points.

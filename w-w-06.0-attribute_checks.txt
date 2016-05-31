@@ -1,0 +1,12 @@
+Attribute Checks
+Attribute Checks are used in times of conflict; essentially, anytime two characters want something different to happen, an Attribute Check might be called for.  Attribute Checks can represent combat, the use of Skills, spells, and inborn abilities, or even things like feats of Strength, Dexterity, or Intelligence. 
+
+To make an Attribute Check, roll 3d6; if you roll less than or equal to the appropriate Attribute, the check is a success.  (Sometimes Attribute Checks will be referred to by the name of the Attribute being checked, such as Strength Check, Dexterity Check, or Intelligence Check.) 
+
+Difficulty:  Some conflicts are more difficult than others.  To represent this, some Attribute Checks are made using 4d6, 5d6, or more; the mechanical effect is to reduce the chance a character will succeed at his Check.  These are referred to as 4 die checks or 5 die checks, respectively.  Some checks can be made on 2d6 as well. 
+
+Margin:  Sometimes you'll want to know how well a character does at an action.  The margin is the amount by which the character succeeds (margin of success) or fails (margin of failure) at an Attribute Check.  Example:  Manfred, with a Dexterity of 14, attempts to make his Dexterity Check.  He rolls 11 on 3d6, making his margin of success (14 - 11) 3. 
+
+Margin of failure is considered a "negative margin of success"; any margin of failure is considered less than any margin of success.  If you need to know a net margin of success (the amount by which one character beats the other), subtract the lower margin of success from the higher. 
+
+Opposed Rolls:  Occasionally, two characters will be in direct opposition to one another.  In circumstances like this, each character rolls his Skill or Attribute Check; whichever one has a higher margin of success wins the check.  Usually it just means that character gets what he wants, though there could be additional consequences depending on the exact circumstances of the conflict. 

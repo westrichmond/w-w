@@ -1,0 +1,592 @@
+Magic
+As mentioned previously, a character is either a Warrior or a Wizard.  A Wizard can learn a number of spells equal to his INT, not unlike Skills for Warriors; his disadvantage is that all Skills cost a Wizard double the number of Skill slots to learn (with certain exceptions noted in the Skill descriptions).  Warriors may learn spells; a spell counts as a Skill for that character and takes three Skill slots.  The INT minimum is as normal, though.
+
+There are four basic types and three subtypes of spells.  The main types are Creation, Missile, Thrown, Spells, and Special, while the subtypes are Control, Detection, and Illusions/Images, and Summoning.  These are described as follows:
+
+Creation:  A Creation Spell either creates an object or substance, whether real or illusory, or summons a creature.  Creation spells have a limited range, that being in the caster's multihex plus each of the multihexes that touches it, and those hexes must be within the caster's line of sight (exception: a wizard can cast a Creation into an area under Shadow).  The caster can see through the eyes of his Creations (Illusions, Images, and Summoned creatures), if they have eyes.  Creations are under the mental control of their caster, and will never try to break this control.  A Creation must appear in an empty hex (the exceptions are Rope, Fire, and Shadow; these can appear in occupied hexes, and Creations can appear in hexes occupied by them).  A Created creature of any kind (again, whether Illusion, Image, or Summoned) suffers from "creation sickness" and cannot move or fight during the Turn in which it was created; after that Turn it can do everything normally. 
+
+Images and Illusions:  Both Images and Illusions are magical phantasms, the unreal made real by magic.  Like all Creations, both are under the mental control of their caster, and the caster can see through the eyes of Images and Illusions.  Creatures of both Image and Illusion need character sheets (in part so that the lack of one is not a tipoff to other players that the construct is one of these!).  Like all Creations, an Image or Illusionary creature suffers from "creation sickness". 
+
+Images must be of a single, simple object; this can be a living creature, shadow, wall, etc., but must be one object (for instance, a 7-hex Image cannot be an Image of seven creatures).  Images are effectively holograms having full sensory components -- sight, sound, and smell at the minimum.  An Image can never do damage, though it acts fully under the caster's mental control, and disappears if it is touched or hit, or if it touches or hits anything (in combat or not).  Two Images cause each other to disappear; an Illusion causes an Image to disappear, but does not itself disappear.  Attempting to move through an Image also causes it to disappear, but if it turns out not to be an image, the moving character stops in the hex right next to the target, and must make a 4d6 Dexterity Check to avoid falling over (the target must itself make a 3d6 Dexterity Check or fall).  If a Missile spell or ranged weapon hits an Image, the Image disappears, and the spell or weapon continues unchecked. 
+
+Illusions, like images, are under the mental control of the caster, but being fully mental constructs, can harm and even kill targets who believe in them.  An illusion of a living creature acts exactly as the creature, and might have its own character sheet.  An Illusion may be disbelieved by an intelligent (sapient) creature; humans, humanoids, and dragons may attempt to disbelieve.  The caster (secretly, in a player vs. player game, or if the caster is an NPC the GM rolls secretly; openly in a game with a GM) rolls a 3d6 Intelligence Check for the character attempting to disbelieve.  If successful (and the Illusion was in fact an Illusion) the Illusion disappears.  If not, or if it was not an Illusion (and the caster should not let on one way or the other), it stays. 
+
+An Illusion must always be of something that exists somewhere.  An illusion of a real person has a 32-point character sheet written up for it (it can be higher if it is of someone the target knows; in that case it has the stats the target knows it to have).  It generally follows natural law and acts in accordance with reality; for instance, an Illusionary character will be burned by fire (whether real or Illusionary).  The caster himself must believe, at least in part, in an Illusion he is casting, otherwise the Illusion fails; for this reason, Illusions of obviously imaginary creatures are not permitted. 
+
+An Illusion has no physical reality, but upon being touched it doesn't disappear.  Instead, characters touching, or otherwise falling afoul, of Illusionary features will, to the extent they are able, act as if they are real.  For instance, a character falling into an Illusionary pit will fall down, as will a character who runs headlong into an Illusionary wall.  Illusionary attacks affect targets exactly as their real counterparts, because of the Illusion being in the mind.  Illusionary damage can kill a character, and the character is permanently (not Illusionarily) dead.  After the Illusion is disbelieved, or ends in such a way as the victim knows it was an Illusion, any Illusionary damage taken recovers at the same rate as fatigue/nonlethal damage (though it is still considered lethal; the victim can still die by taking Illusionary plus real damage in excess of his Strength). 
+
+Summoning:  Summoned creatures are brought in from elsewhere to serve the caster.  Like other Creations, the caster may see through the eyes of a Summoned being, and such a creature is under his mental control.  A Summoned creature disappears immediately (returning to its place of origin) when it is killed, when its Summoner is killed or goes unconscious (at the end of a turn; this is an exception to the general rule that Creations always disappear immediately), when dismissed by its Summoner, or when the Summoner fails to perform required upkeep on the spell.  Summoned creatures can never cast spells of their own, nor can they attempt to disbelieve illusions.  A Summoned being subject to a Control spell acts in all respects as if the caster of the Control spell were the one who Summoned it; that character now spends upkeep to maintain the Summoning, and otherwise fully controls the creature. 
+
+Missile:  A Missile Spell attacks a target with a projectile of some kind; the projectile moves to the target either magically or under its own power. 
+
+Thrown:  A Thrown Spell, as the name implies, is a projectile that is actually physically thrown by the Wizard; it otherwise does not reach the target.  The wizard may always target himself with a Thrown spell. 
+
+Special: Special Spells are anything that is not one of these three. 
+
+Control:  Control spells are a subtype of Thrown spells, and allow the caster to take control of an animal or humanoid.  On a successful casting, the victim receives a 3d6 Intelligence Check to avoid being controlled; if he succeeds, the caster loses 1 Strength, and if he fails, the caster takes control, treating the victim as if he were a Summoned creature.  (Summoned creatures under Control act in all respects as if the Controller had cast the original Summon, including requiring him to pay the STR Cost to maintain, and the fact that the creature disappears when the spell ends; for other creatures, when the Control ends, the spell dissipates and the victim doesn't remember being controlled.) 
+
+Detection:  For all Detection type spells (usually a subtype of Special or Thrown), the GM rolls an Intelligence Check for the caster, without revealing the dice result.  On a successful roll, the GM tells the player the truth about what the spell detects; on a failure he lies (by generating either a false positive or a false negative).  
+Casting a spell:
+In general, out of combat a character can cast spells at will.  During combat, in a Combat Turn a character can move up to one hex and cast a spell, whether that movement is a Step (while Disengaged) or a Shift (while Engaged). 
+Spellcasting and Damage:
+All spells have a Strength cost; when the character casts the spell, he loses that much Strength.  A character can fall unconscious or even die as a result of casting too many spells!  (See also the Optional Nonlethal Damage Rule, above.)
+Spell Stat Block:
+Name:  This is the name of the spell
+Type:  Creation/Summoning, Missile, Thrown, or Special
+STR Cost:  This is how much it costs to cast the spell.  STR Cost listed in the form "X + Y per Turn" means it costs X to cast and Y to keep the spell going for one Turn.  (This is the Spell Upkeep listed as phase 2 of combat.)
+Duration: This is the spell's duration in Turns.  A spell that lists both a Duration and a STR Cost per some time frame has a base duration equal to that listed, and an additional cost for upkeep beyond that.  (Spells with an upkeep or maintenance cost but no duration listed are assumed to last for 1 Turn.) 
+The Spell List:
+Min. INT 8:
+Blur
+Type: Thrown
+STR Cost:  1 + 1 per Turn to maintain
+
+Blur makes it harder for others to see, hear, smell, etc. the target of the spell.  (It's Thrown, so it is applied to a target, which can include the caster.)  All attacks against the target are at a -4 penalty; any Perception Checks against the target of the spell are at -4 as well. 
+
+Detect Magic
+Type: Thrown (Detection)
+STR Cost:  1
+
+Detect Magic can tell whether a target is magical, though it can't identify any spells.  The GM secretly makes an Effective Dexterity check for the caster; if he fails, the caster detects no magic, whether the target is magical or not. 
+
+Drop Weapon
+Type: Thrown
+STR Cost:  1, or 2 if target's full STR is 20 or greater
+
+The target drops whatever he is carrying in one hand.  Does not affect rings, amulets, or other jewelry, only things held in the hand.  Does not affect objects with Immunity to this spell. 
+
+Image
+Type:  Creation
+STR Cost:  1
+Duration: 1 minute
+
+Image creates a one-hex image (see Images and Illusions for more details). 
+
+Light
+Type:  Thrown
+STR Cost: 1
+Duration:  1 day
+
+Light causes a small object (fist sized or smaller) to glow, casting approximately as much light as a torch.  The caster can choose the color.  The caster may, if he wishes, end the spell before its duration ends, but must cast the spell again for more light. 
+
+Magic Fist
+Type: Missile
+STR Cost:  *
+
+Magic Fist creates a telekinetic fist in the air that can be used to attack with; the fist does 1d6-2 damage for every point of STR spent on casting it.  It can otherwise be used as if it were a fist, anywhere within the wizard's line of sight.  A Magic Fist that does 6 or more points of damage to before armor can trip the target, who gets a 3d6 Strength or Dexterity Check to avoid this. 
+
+Slow Movement
+Type: Thrown
+STR Cost:  2
+Duration:  4 Turns
+
+Slow Movement halves a target's Movement for 4 Turns.  Multiple castings of Slow Movement increase the spell's duration, but don't halve movement again. 
+
+Staff
+Type:  Special
+STR Cost:  5
+
+The Staff spell turns any piece of wood into a Wizard's Staff.  A wizard who knows the Staff spell may automatically begin the game with a staff if he wishes, without paying any Strength to cast it (it's assumed he has cast it before beginning play, and recovering between then and now).  A staff never prevents a wizard from casting a spell, and even though it is considered a weapon he need not drop it in order to cast spells.  A staff is affected by Drop Weapon, Break Weapon, and other spells that affect weapons or wood.  If someone other than its owner touches a Wizard's Staff, it explodes, doing 3d6 damage to whoever touched it. 
+Min. INT 9:
+Aid
+Type: Thrown
+STR Cost: *
+Duration:  2 Turns
+
+Aid adds 1 to the target's STR, DEX, or INT for every 1 STR used in the casting.  (The target can be the caster himself.)  If the Aided Attribute is Strength, any Strength not used for casting spells or taken in wounds disappears after 2 Turns. 
+
+Avert
+Type: Thrown
+STR Cost:  2 + 1 per Turn
+
+Avert causes the target to move a minimum of 2 hexes away from the caster for every Turn the spell is active.  If the victim is unable to move because of an obstacle of some kind, he must succeed at a 3d6 Effective Dexterity check or fall down.  The victim will, if necessary, disengage from combat to continue to move away.  The target can move closer to the caster during the Turn, but must end the Turn at least two hexes further than his closest point. 
+
+Clumsiness
+Type: Thrown
+STR Cost:  *
+Duration:  3 Turns (1 if target's STR is 30 or greater)
+
+Clumsiness reduces the target's Effective Dexterity by 2 for every 1 STR used in its casting. 
+
+Confusion
+Type: Thrown
+STR Cost: *
+Duration:  3 Turns
+
+Confusion reduces the target's Effective Intelligence by 2 for every 1 STR used in its casting.  The target can't use any spells or Skills that have a minimum INT requirement greater than his Effective Intelligence, but he can maintain any spells he has already cast. 
+
+Dark Vision
+Type: Thrown
+STR Cost:  3
+Duration: 1 hour
+
+The target of Dark Vision can see in any level of darkness up to total (except for magical darkness and the like), at no penalty, until the spell ends.  The spell does not permit vision through or inside a hex under the Shadow spell.
+
+Darkness
+Type:  Special
+STR Cost:  1 per multihex distance + 1 per Turn past base duration
+Duration:  3 Turns and up
+
+Darkness darkens any light sources within range of the caster, though none outside of that (so it is next to useless outdoors during the daytime, for instance).  The spell can affect any or all light sources within the area, at the caster's choice.  It affects light only; heat, combustion, fuel or energy consumption, etc. remain unaffected, though any heat generated as a direct consequence of the light is (if the spell is cast to affect a laser, for instance, the laser would cease to function for the spell's duration).  Any light-creating spells in the area continue as well, though they generate no light while Darkness is active.  The Strength cost to cast Darkness is 1 per multihex of range, plus one per Turn duration above 3; if a Wizard spent 4 Strength on a casting of Darkness, he could cast it to affect 3 multihexes of distance and one Turn past 3 Turns, for 4 Turns. 
+
+Detect Life
+Type: Special (Detection)
+STR Cost:  2 + 1 per additional multihex
+
+Detect Life reveals to the caster any life forms within the spell's range.  It can be used in two modes: area and directional.  Used in an area, it shows all life forms (including plants but not including microbial life or small insects) within 2 multihexes of the caster's multihex (+1 per additional Strength spent).  Used directionally, the spell can focus on a single multihex or even a single hex; in this case, the cost is 2 for up to 2 multihexes range, +1 per additional multihex.  The caster may, if he wishes, also focus the spell on a single type of life form.  As with Detect Magic, the GM rolls for the caster and reveals the results only on a successful check. 
+
+Fire
+Type: Creation
+STR Cost: 1 + 1 per Turn
+
+Fire creates a fire, of any size up to one full hex; the wizard can use this for any purpose from lighting a torch or pipe to filling an entire hex with burning doom.  The magical fire lasts as long as it is maintained; once it is no longer maintained, its continued duration is based on factors including available oxygen, fuel, etc. though it doesn't consume these things while it is being maintained.  Lasts for a minimum of one full Turn after it is no longer maintained. 
+
+Reveal Magic
+Type: Special
+STR Cost:  1 + 1 per Turn
+
+Reveal Magic reveals any secret protection spells or magic items actively in use and in line of sight within 5 multihexes of the caster.  Also reveals the presence of any spells cast on an area, such as Slippery Floors or Sticky Floors.  The spell does not differentiate between the spells; it won't tell the caster which spell is which, only that there is a spell there. 
+
+Summon Wolf
+Type:  Creation
+STR Cost:  2 + 1 per Turn
+
+Summon Wolf causes a wolf to appear.  (See Bestiary section for Wolf stats; see Summoned Creatures section for more details on summoning.)
+Min. INT 10:
+Damage Shield
+Type: Thrown
+STR Cost:  2 + 1 per Turn
+
+Damage Shield is thrown at a target (which can be the caster).  All other creatures in the target's hex take 1d6 damage at the end of each turn the spell continues; this damage is not stopped by armor or shields. 
+
+Dazzle
+Type: Special
+STR Cost:  3
+
+Dazzle causes a psychic flash effect against all sighted creatures within 5 multihexes of the Wizard's multihex (but not the Wizard himself nor anyone inside that radius).  The spell affects all creatures that can see, including Summoned creatures, Images, and Illusions.  All flashed creatures are at -3 to Effective Dexterity for 3 Turns. 
+
+Detect Enemies
+Type: Special (Detection)
+STR Cost: 3 + 2 per additional multihex distance
+
+Works exactly as Detect Life except that it detects only creatures with hostile intent toward the caster, though it does not provide details of the creature's intent.  It can also detect magical traps and other hostile spells placed on an area (though it does not detect the Ward spell).  Costs 3 Strength to detect any enemies within 2 multihexes of the caster's multihex, plus 2 Strength per additional multihex. 
+
+Far Sight
+Type: Thrown
+STR Cost:  1
+Duration: 5 minutes
+
+The target of Far Sight can see a hundred times farther than normal; divide the distance between him and whatever he is trying to see by 100 for all visual perception purposes except direct combat. 
+
+Haste
+Type: Thrown
+STR Cost:  2
+Duration: 4 Turns
+
+Haste doubles the target's base Movement for up to 4 Turns, before adjustments for armor and the like.  Casting the spell again increases the duration rather than doubling movement again. 
+
+Hide the Trail
+Type: Special
+STR Cost: 4
+Duration: 1 day, or until ended by the caster/the caster's death
+
+Placed on an area (a crossroads, fork, or intersection up to one multihex in area or seven hexes in length), Hide the Trail causes anyone attempting to follow a trail through it to take the wrong path.  Trackers get a 4d6 Intelligence Check to avoid the spell, though they still need to successfully track their quarry.  Anyone passing through an area with this spell on it for a second or subsequent time has a 50% chance of being affected by it again.  The caster and anyone with him are unaffected by this spell.  It does not protect anyone who is within direct sight of the tracker(s)!
+
+Lock/Unlock
+Type: Thrown
+STR Cost: 2
+
+The Lock/Unlock spell can be used to either lock a door so it can't be unlocked normally, or to unlock any single lock including one that has been locked with the Lock spell.  The Unlock spell will either unlock one single lock or will negate one use of the Lock spell.  The door must be physically capable of opening in order for Unlock to open it.  A lock that has been locked with the Lock spell can still be picked; each application of the Lock spell adds one die to the Dexterity Check required to pick the lock (or one die to the Strength Check required to break it down!).
+
+Shadow
+Type: Creation
+STR Cost: 1
+Duration: 1 minute
+
+Shadow creates a 1-multihex sphere of complete darkness.  This is normally centered on a ground hex, making a hemisphere 2 hexes high in the center, but can be centered anywhere within the wizard's line of sight; once created it doesn't move, even in the air.  Attacks by characters inside a Shadow, or made through one, are at a -6 penalty; attacks against targets inside are at -4. 
+
+Summon Myrmidon
+Type: Creation
+STR Cost:  2 + 1 per additional Turn
+
+A myrmidon appears.  (See Bestiary section for Myrmidon stats; see Summoned Creatures section for more details on summoning.)
+
+Trip
+Type: Thrown
+STR Cost: 2, or 4 if target has 30+ STR
+
+The target falls over.  The spell does no damage directly, but if the target is next to a pit, cliff, etc., he must make a 4d6 Dexterity Check to avoid falling in. 
+
+Ward
+Type: Special
+STR Cost:  2
+Duration: 1 day
+
+Placed on an area (up to one multihex or seven hexes in length), Ward will alert the caster (even if asleep or otherwise occupied) if any creature enters or passes through the Warded area.  The caster will know the creature's general intent as well.  The spell ends if the wizard moves more than 15 hexes away from the Warded area; the caster can cast as many Ward spells as he has STR to cast. 
+Min. INT 11:
+Control Animal
+Type: Thrown
+STR Cost:  2 + 1 per Turn
+
+The wizard takes control of one normal animal, including summoned animals (but not images or illusions).  The animal makes a 3d6 Intelligence Check to avoid its effects when the spell is first cast. 
+
+Create Wall
+Type: Creation
+STR Cost:  2
+Duration: 1 minute
+
+Create Wall creates one hex worth of wall.  If it is cast in a hex next to where a wall was already created, it will join that wall, creating whatever junction is necessary to attach.  The general look and feel of the wall is up to the caster, but all Created Walls are made out of the same material.  Create Wall can't be used to entomb another character by creating the wall in his hex; a Create Wall cast at an occupied hex fails. 
+
+Destroy Creation
+Type: Thrown
+STR Cost:  1
+
+Destroy Creation destroys 1 hex worth of created object.  It does not affect living (summoned) beings, nor images or illusions of living creatures greater than 1 hex.  If cast at any other created object of 1 hex or smaller, the object disappears; if cast at a created object larger than 1 hex, then only 1 hex of the object disappears. 
+
+Illusion
+Type: Creation
+STR Cost:  2
+Duration: 1 minute
+
+Creates an illusion of anything, chosen by the caster; the illusion may be up to 1 hex in size.  (See Images and Illusions for more information.) 
+
+Persuasiveness
+Type: Thrown
+STR Cost:  2 + 1 per Minute
+Duration: 1 minute
+
+For the duration of the spell, the subject of Persuasiveness rolls one fewer die on any tasks regarding persuading another character to do something.  He also gets +2 on any reaction rolls. 
+
+Reveal/Conceal:
+
+Coming soon.
+
+Reverse Missiles
+Type: Thrown
+STR Cost:  2 + 1 per Turn
+
+This spell causes any missiles fired at its target to reverse and hit the character who fired them.  The attacker rolls to hit the character with this spell; if the hit is successful, the missile automatically his the attacker.  It affects missile spells and thrown and missile weapons (but not thrown spells).  Reverse Missiles can be cast secretly (see Secret Spells for more details). 
+
+Rope
+Type: Creation
+STR Cost:  2
+Duration: Until removed (see description)
+
+Rope creates a writhing, entangling rope.  Upon successful casting, the rope entangles its victim, reducing his Effective Dexterity by 2 plus an additional 1 per Turn (making it -3 on the second Turn, -4 on the third, etc.).      The victim (or anyone else) can remove the rope by doing nothing else, then making a 3d6 Effective Dexterity Check.  If successful, the rope disappears and the spell ends (all penalties go away as well).  A character whose Dexterity is reduced to 2 or lower by this spell falls down and can do nothing at all, not even remove the rope.  This spell does not affect creatures with 20 or more normal Strength (see also the Giant Rope spell). 
+
+Silent Movement
+Type: Thrown
+STR Cost:  1 + 1 per Turn
+
+The target of the spell moves completely silently.  Only prevents direct sounds related to movement -- it stops footsteps, but also the jingling of armor, weapons, or coins, the sounds of bumping into walls or other large objects, etc.  It does not stop noises or sounds made deliberately by the target unrelated to movement; characters can talk or make other sounds. 
+
+Sleep
+Type: Thrown
+STR Cost: 3
+
+Puts the target to sleep.  This is in all respects normal sleep, and the target will awaken normally after several hours unless awoken first.  A target who is standing when hit with Sleep will fall down.  Does not work on characters who normally have 20 STR or more.
+
+Staff to Snake
+Type: Thrown
+STR Cost: 3
+Duration: 6 Turns
+
+The Wizard's Staff turns into a snake (see Bestiary for staff snake stats).  It acts as if it were a summoned snake (see Summoned Beings).  It can move and/or fight immediately after it appears.  If killed, the snake reverts immediately to a staff, though broken.  Recasting the spell before the duration ends causes the staff to remain a snake for another six turns without reverting. 
+
+Summon Bear
+Type: Creation
+STR Cost: 4 + 1 per Turn
+
+Summons a bear.  (See the Bestiary section for bear stats; see the section on Summoning for more info as well.)
+Min. INT 12:
+3-Hex Fire
+Type: Creation
+STR Cost:  2
+
+Creates up to 3 connected hexes of fire (see the Fire spell and the Fire Damage section for more details). 
+
+3-Hex Shadow
+Type: Creation
+STR Cost:  2
+
+Creates up to 3 connected hexes of shadow (see the Shadow spell for more details).  
+
+Analyze Magic
+Type: Special (Detection)
+STR Cost:  4
+
+Tells the character about exactly one spell cast on an object.  Each casting tells the character about one spell, from lowest INT to highest.  The caster may specify specify the type of spell (such as beneficial, harmful, thrown, creation, etc.), and Analyze Magic will tell the character about such spells if they are present, but will do nothing otherwise.  The GM rolls a 3d6 Intelligence Check for the caster without revealing the result; if successful, the GM truthfully explains the spell.  If not, the GM lies. 
+
+Blast
+Type:  Special
+STR Cost:  2
+
+Every creature, friend or foe, in the wizard's hex, or in any hex adjacent to the wizard, takes 1d6 damage. 
+
+Break Weapon
+Type: Thrown
+STR Cost:  3
+
+Cast at another character, one weapon (including a shield or wizard's staff) in that character's hand breaks.  Does not affect magical items created with Immunity to Breakage.  A broken weapon does half damage, rounded down, while a broken wizard's staff is useless.
+
+Drain Strength
+Type:  Special
+STR Cost:  0 (see description)
+
+Drain Strength drains a target's life force into the caster.  The target must either be willing or under the wizard's control (tied up, under a Control spell, or otherwise under duress).  For every 5 full Strength drained from the target, the wizard regains 1; all damage both done and regained is nonlethal (fatigue or exhaustion, including due to spellcasting, or any nonlethal damage if using the Optional Nonlethal Damage rules).  The spell will never kill a target, and will only drain in increments of 5 Strength, never fractions thereof.  It also only drains from one single target, always. 
+
+Eyes Behind
+Type:  Thrown
+STR Cost:  3 + 1 per Turn
+
+The character can see into side hexes (the two hexes behind to the left and right of him) as if they were front hexes, and into his rear hex (directly behind him) as if it were a side hex. 
+
+Fireball
+Type:  Missile
+STR Cost:  1 per 1d6-1 damage
+
+Does 1d6-1 fire damage to the target for every 1 Strength spent.  See the Fire Damage section for more details. 
+
+Freeze
+Type: Thrown
+STR Cost:  4
+Duration:  2d6 Turns
+
+The victim cannot move or take any voluntary actions for the duration of the spell (but can see and hear, disbelieve illusions, or take any other actions that require no movement to achieve).  He is completely frozen in place.  Does not affect creatures with 30 STR or more. 
+
+Invisibility
+Type: Thrown
+STR Cost:  3 + 1 per Turn
+
+The target of the spell becomes invisible and cannot be seen.  Remove his figure or counter from the map, and all of his movement becomes hidden (see Hidden Movement) until the spell ends.  Any attacks against him are at -6, if directed at the correct hex (attacks aimed elsewhere have no effect).  The effects of Invisibility are not cumulative with other sense affecting spells; Invisibility also does not prevent the target from being heard, and is useless in darkness (except against creatures that can see in the dark).  Cast on an illusion or image, Invisibility destroys it. 
+
+Magesight
+Type: Thrown
+STR Cost: 2 + 1 per Turn
+
+The target of the spell can see objects or items under the following spells: Blur, Invisibility, or Shadow (any), or in ordinary darkness. 
+
+Rainstorm
+Type: Creation
+STR Cost: 4
+Duration: 1 minute
+
+Rainstorm creates a 1-multihex rain cloud.  The cloud is under the mental command of the caster and can move at up to 1 hex per Turn.  The rain puts out all fires, magical or not, and prevents Fireballs, lightning, and dragon fire from passing through it.
+
+Repair
+Type: Thrown
+STR Cost: 6
+
+Repair can repair small, simple (defined as having few or no moving parts), broken items, as if they were never broken (in fact it will also repair incidental damage, nicks and scuffs and so on).  Any item up to 2kg in mass can be repaired by use of this spell; multiple wizards working together to cast Repair are additive.  (Two wizards can repair up to 4kg; three can repair up to 6kg; and so on.)  It can repair broken items that are mundane or magical, but never living creatures.  Also note that when a magical item breaks, any spells or enchantments in the item dissipate; after repair, the item is as if it were never broken, but the spell does not replace or restore spells or enchantments.  (A repaired wizard's staff is just a stick, but the Staff spell can be recast on it.)
+Min. INT 13:
+3-hex Wall
+Type: Creation
+STR Cost:  4
+
+Works exactly as the Wall spell, except that it creates three connected hexes of wall. 
+
+4-hex Image
+Type: Creation
+STR Cost:  2
+Duration: 1 Minute
+
+Creates an image of anything up to four connected hexes in size. 
+
+Control Elemental
+Type: Thrown (Control)
+STR Cost: 3 + 1 per Minute (doubled if target is STR 30 or greater)
+
+Control Elemental places any elemental under the mental control of the caster.  (See also the Control Person spell and the Control Spells section for more information.)
+
+Control Person
+Type: Thrown (Control)
+STR Cost: 3 + 1 per Turn
+
+Control Person places any human or humanoid target (either normal or summoned) under the mental control of the caster.  An image or illusion disappears immediately if targeted by this spell.  The target may make a 3d6 Intelligence Check to avoid being controlled, but if he fails he is under the wizard's control.  (See also the Control Spells section for more information.) 
+
+Curse
+Type: Thrown
+STR Cost: *
+Duration: Until removed
+
+Curse affects the target with a curse; the amount of the curse is 1 per 2 STR spent on the spell by the caster.  Every point in the curse is a 1 point penalty on all dice rolls by the target (Attribute Checks, damage rolls, any other rolls).  The penalty always works against the target; for any roll in which the target wants to roll low, the penalty reduces the target number, and for any roll in which the target wants to roll high, the die roll value is reduced.  Lasts until removed or dispelled by an appropriate spell.  A Curse is normally not visible, and the target won't necessarily know he has been cursed; Reveal Magic or Detect Magic can tell that a spell has been cast, and an Analyze Magic will tell that it is the Curse spell.
+
+Fireproof
+Type: Thrown
+STR Cost: 3 + 1 per Turn, per hex of the target's size
+
+The target, and everything he is wearing and carrying, is immune to fire damage. 
+
+Flight
+Type: Thrown
+STR Cost: 3 + 1 per Turn
+
+Flight gives the target the ability to fly with a base flying Movement score of 12 (reduced normally by encumbrance).  Attacks by a flying character without the Flying Skill are at -2 for melee attacks or missile or thrown spells, and -4 for missile attacks and thrown weapons.  Attacks against flying creatures are at -4; this penalty is cumulative with the other penalties, so a missile attack by a flying character against a flying target would be at -8!
+
+Slippery Floor
+Type: Thrown
+STR Cost: 3
+Duration: 1 Minute
+
+Slippery Floor turns one multihex worth of floor slippery.  Anyone in the area must make an Effective Dexterity check to avoid falling (3d6 if standing still; 4d6 if moving).  It takes a 3d6 Effective Dexterity Check to even stand up in a slippery hex.  A character may crawl out without having to roll, though.  Images and illusions are affected by Slippery Floor. 
+
+Sticky Floor
+Type: Thrown
+STR Cost:  3
+Duration: 1 Minute
+
+Sticky Floor turns one multihex worth of floor sticky.  Anyone who moves into the sticky area must stop immediately; further movement through the sticky area is at a Movement rate of 1 (or 2 for characters with 30 or more normal Strength).  A Sticky Floor cast on an area of Slippery Floor will fail, and vice versa.  Images and illusions are affected by Sticky Floor. 
+
+Stone Flesh
+Type: Thrown
+STR Cost:  2 + 1 per Turn
+
+The target of the Stone Flesh spell has 4 natural defense against all attacks.  This defense is cumulative with all armor or other magical defense the character has, with the exception of another Stone Flesh or an Iron Flesh spell.  Stone Flesh is not obvious; Reveal Magic will reveal the spell, as will simply hitting the character with a weapon (on a successful 3d6 Intelligence Check). 
+
+Stop
+Type: Thrown
+STR Cost:  3
+Duration: 4 Turns
+
+The target's Movement is reduced to 0 for the duration of the spell.  He can do anything else, except move. 
+
+Summon Gargoyle
+Type: Creation
+STR Cost:  4 + 1 per Turn gargoyle remains
+
+Summons a gargoyle.  (See Bestiary for Gargoyle stats; see Summoning section for details on summoned creatures.) 
+
+Telekinesis
+Type: Thrown
+STR Cost:  2 per Turn
+
+Allows the caster to move objects with his mind.  The spell is capable of affecting anything the caster can see or touch.  The telekinesis point can "float" or fly anywhere within line of sight.   The wizard can use weapons via Telekinesis, but needs to have the weapon skill to use them effectively; all telekinetic weapon use is at an additional -4 penalty. 
+
+Tunnel
+Type: Thrown
+STR Cost:  10
+Duration: Permanent
+
+Tunnel turns one hex of rock or other material into air.  The spell can, if the caster wishes, affect smaller area, and the caster can also control the shape of the tunnel.  (The spell can, if the caster wishes, be used to shape, cut, or (with the appropriate Skill) sculpt stone; the total volume of material removed is up to one full hex.) 
+
+The spell can be used on a living being to cause part or all of the creature's flesh to disappear; this will kill all creatures of 1 hex in size, and most larger creatures with one hex taken out of them will also die.  The victim gets a 4d6 Dexterity Check to avoid this fate, and even then can partially avoid it; the amount of damage taken by the target depends on the degree to which he missed the roll (missing by 5 or more results in instant death).  A target that has been affected by the Freeze spell cannot resist!  GMs may wish to control the use of this spell, especially in conjunction with Freeze or other similar spells. 
+Min. INT 14:
+4-hex Illusion
+Type: Creation (Illusion)
+STR Cost: 3
+
+Creates an illusion up to 4 hexes in size.  (See Images and Illusions for more information.) 
+
+Dispel Illusion
+Type: Special
+STR Cost:  5
+
+Dispels all Illusion spells within 5 multihexes of the caster, including the caster's own, regardless of size. 
+
+Fresh Air
+Type: Thrown
+STR Cost: 2 + 1 per Minute
+
+The target of Fresh Air can breathe normally despite any circumstances that would dictate otherwise -- being underwater, surrounded by smoke or poison gas, etc. 
+
+Lightning Bolt
+Type: Missile
+STR Cost:  1 per 1d6 damage
+
+Lightning Bolt creates a bolt of lightning that arcs to a target (which may be a character or inanimate object) and damages it.  If a target is destroyed, further damage continues through to the next target.  Destroys all magic items carried by a target killed or destroyed by the spell. 
+
+Remove Thrown Spell
+Type: Thrown
+STR Cost:  2
+
+Dispels any Thrown spell.  (Note that many protective and other types of spells are of the Thrown type.)  It can be used to counter an incoming Thrown spell, or to remove a Thrown spell that is already in place.  Affects only Thrown spells, and no other type. 
+
+Spell Shield
+Type: Thrown
+STR Cost:  3 + 1 per Turn
+
+Spell Shield protects the target from any hostile spells.  All Thrown, Missile, and Special spells cast directly at the target fail, and their caster pays the full STR cost for all spells cast (exception: for Death Spell, its caster pays 1 STR).  Only protects against the direct effects of spells; does not protect against damage from weapons, summoned or created beings, illusions, or the Magic Rope or Slippery Floor spells. 
+
+Summon Giant
+Type: Creation (Summoning)
+STR Cost:  4 + 1 per Turn
+
+Summons a giant.  (See Bestiary for giant stats, and Summoning section for more information.) 
+Min. INT 15:
+7-hex Image
+Type: Creation (Image)
+STR Cost:  4
+
+Creates an Image of up to 7 hexes in size (which may be in any configuration chosen by the caster, as long as they are connected).  See also the Images and Illusions section for more information.
+
+7-hex Shadow
+Type: Creation
+STR Cost: 3
+
+Acts exactly as the Shadow spell, except that it affects 7 hexes (which may be in any configuration chosen by the caster, as long as they are connected). 
+
+Giant Rope
+Type: Creation
+STR Cost:  5
+
+Acts as a Rope spell against creatures with 20 or more normal Strength.  Against smaller creatures, it acts as two Rope spells that must each be removed (one at a time) before the victim is free. 
+
+Iron Flesh
+Type: Thrown
+STR Cost: 3 + 1 per Turn
+
+The target of Iron Flesh gains 6 natural defense against all attacks; the spell is in other respects identical to Stone Flesh and works the same way. 
+
+Multihex Avert
+Type: Thrown
+STR Cost: 3 + 1 per Turn
+
+Acts as an Avert spell against all of the targets in a single multihex.  All of those characters act as if they are affected by Avert. 
+
+Summon Small Dragon
+Type: Creation (Summoning)
+STR Cost: 5 + 1 per Turn
+
+Summons a small dragon under the control of the caster.  (See Bestiary for small dragon stats; see Summoning section for more information.)
+
+Teleport
+Type: Special
+STR Cost: 1 per multihex traveled
+
+Teleport causes the caster to disappear from where he is and reappear somewhere else, without passing through the hexes in between.  Teleport is not stopped by any barrier.  If the caster teleports to a hex that is occupied by a solid object, he dies (as does the object, if it was alive).  If the caster can see his target hex he can made a 3d6 Dexterity Check to avoid a solid object that does not take up the full hex (such as a person), but any creature of larger than one hex takes up all of every hex it occupies.  An Illusion in the hex counts as a solid object for these purposes, but an Image does not (it disappears instead). 
+Min. INT 16:
+7-hex Fire
+Type: Creation
+STR Cost: 4
+
+Like the Fire spell; creates an area of fire up to 7 hexes (these hexes may be in any configuration chosen by the caster, as long as they are connected).  See also the Fire Damage section for more information. 
+
+7-hex Illusion
+Type: Creation (Illusion)
+STR Cost: 5
+
+Creates an illusion of anything up to 7 hexes in size (these hexes may be in any configuration chosen by the caster, as long as they are connected).  See also Images and Illusions for more information.
+
+7-hex Wall
+Type: Creation
+STR Cost: 6
+
+Works as the Wall spell, creating 7 hexes worth of wall (these hexes may be in any configuration chosen by the caster, as long as they are connected).  Does not fill an occupied hex with wall, although the spell may be used to surround and entrap a target with walls. 
+
+Death Spell
+Type: Thrown
+STR Cost: *
+
+Both the caster and the target immediately lose an amount of STR equal to the lower of both character's Strength scores.  This means the target with lower STR dies (even if it is the caster), and the target with higher STR loses as much STR as he had.  Spell Shield (q.v.) stops this spell, but no other spell does. 
+
+Multihex Sleep
+Type: Thrown
+STR Cost: 8
+
+As Sleep, except that it affects every creature of up to 20 Strength in a single multihex (except the caster, if applicable) or any single creature of up to 50 Strength. 
+
+Summon Large Dragon
+Type: Creation (Summoning)
+STR Cost: 5 + 2 per Turn
+
+Summons a large dragon under the control of the caster.  (See Bestiary for stats for large dragon; see Summoning section for more information.)

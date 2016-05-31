@@ -1,0 +1,2 @@
+Character Types
+For purposes of the game, a character is either a Wizard or a Warrior; a Warrior is any character who is not a Wizard.  Wizards have great magical ability, while Warriors are usually physically powerful and great fighters. 

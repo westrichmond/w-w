@@ -1,0 +1,6 @@
+Skills
+Skills are things that any character can potentially learn how to do.  A character can learn a number of Skills equal to his Intelligence; some Skills take up two or more "slots" toward this total.  The cost of each Skill, as well as the minimum Intelligence required to learn it, is noted following the Skill's description.  A character cannot learn a Skill unless his Intelligence is equal to or greater than its INT minimum. 
+
+Many Skills call for an Attribute Check under certain circumstances; normally an Attribute Check is only required in a situation of combat, conflict, or other stress.  An Attribute Check should only be required if the consequences of failure are as interesting as those of success. 
+
+Prerequisites:  For some Skills a prerequisite is listed.  The character must have all of the prerequisites in place for a Skill before he can learn it.  For instance, if a Skill calls for having a Dexterity score of 13 or more, plus the Swords Skill, the character must have 13 or more Dexterity and Swords before he can learn the other one. 
